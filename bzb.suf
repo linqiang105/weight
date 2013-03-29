@@ -1,0 +1,3811 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<DocumentData>
+<ProductID>{AFB904C4-C255-4540-B97E-A75A34F1FFB0}</ProductID>
+<ProductVersion>9.0.3.0</ProductVersion>
+<ProductType>Crack</ProductType>
+<ArchiveFiles>
+<FileData>
+<FldRef>0</FldRef>
+<FullName>weight15\weight.exe</FullName>
+<FileName>weight.exe</FileName>
+<Source>weight15</Source>
+<Ext>exe</Ext>
+<RTSource>Archive</RTSource>
+<Desc/>
+<Recurse>1</Recurse>
+<MatchMode>0</MatchMode>
+<Dest>%AppFolder%</Dest>
+<Overwrite>2</Overwrite>
+<Backup>0</Backup>
+<Protect>0</Protect>
+<InstallOrder>1000</InstallOrder>
+<SCStartRoot>0</SCStartRoot>
+<SCStartProgs>0</SCStartProgs>
+<SCAppFld>1</SCAppFld>
+<SCStartup>0</SCStartup>
+<SCDesk>1</SCDesk>
+<SCQLaunch>0</SCQLaunch>
+<SCCust>0</SCCust>
+<CustSCPath/>
+<SCDesc>³ÆÖØÈí¼þµ¥»ú°æ</SCDesc>
+<SCComment/>
+<SCArgs/>
+<SCWork/>
+<UseExtIco>0</UseExtIco>
+<IcoFN/>
+<IcoIdx>0</IcoIdx>
+<IcoShowMd>0</IcoShowMd>
+<IcoHK>0</IcoHK>
+<RegTTF>0</RegTTF>
+<TTFName/>
+<RegOCX>0</RegOCX>
+<RegTLB>0</RegTLB>
+<SupInUse>0</SupInUse>
+<Compress>1</Compress>
+<UseOrigAttr>1</UseOrigAttr>
+<Attr>0</Attr>
+<NoCRC>0</NoCRC>
+<NoRemove>0</NoRemove>
+<Shared>0</Shared>
+<OSCond>
+<OS>32768</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+</OSCond>
+<RTCond/>
+<BuildConfigs>
+<Cfg>All</Cfg>
+</BuildConfigs>
+<Package>ÎÞ</Package>
+<Packages/>
+<Notes/>
+<CompSize>0</CompSize>
+<CRC>0</CRC>
+<StoreOnly>0</StoreOnly>
+</FileData>
+<FileData>
+<FldRef>0</FldRef>
+<FullName>weight15\Database\Database.mdb</FullName>
+<FileName>Database.mdb</FileName>
+<Source>weight15\Database</Source>
+<Ext>mdb</Ext>
+<RTSource>´æµµ</RTSource>
+<Desc/>
+<Recurse>1</Recurse>
+<MatchMode>0</MatchMode>
+<Dest>%AppFolder%\Database</Dest>
+<Overwrite>4</Overwrite>
+<Backup>0</Backup>
+<Protect>0</Protect>
+<InstallOrder>1000</InstallOrder>
+<SCStartRoot>0</SCStartRoot>
+<SCStartProgs>0</SCStartProgs>
+<SCAppFld>0</SCAppFld>
+<SCStartup>0</SCStartup>
+<SCDesk>0</SCDesk>
+<SCQLaunch>0</SCQLaunch>
+<SCCust>0</SCCust>
+<CustSCPath/>
+<SCDesc>Database</SCDesc>
+<SCComment/>
+<SCArgs/>
+<SCWork/>
+<UseExtIco>0</UseExtIco>
+<IcoFN/>
+<IcoIdx>0</IcoIdx>
+<IcoShowMd>0</IcoShowMd>
+<IcoHK>0</IcoHK>
+<RegTTF>0</RegTTF>
+<TTFName/>
+<RegOCX>0</RegOCX>
+<RegTLB>0</RegTLB>
+<SupInUse>0</SupInUse>
+<Compress>1</Compress>
+<UseOrigAttr>1</UseOrigAttr>
+<Attr>0</Attr>
+<NoCRC>0</NoCRC>
+<NoRemove>0</NoRemove>
+<Shared>0</Shared>
+<OSCond>
+<OS>32768</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+</OSCond>
+<RTCond/>
+<BuildConfigs>
+<Cfg>All</Cfg>
+</BuildConfigs>
+<Package>ÎÞ</Package>
+<Packages/>
+<Notes/>
+<CompSize>0</CompSize>
+<CRC>0</CRC>
+<StoreOnly>0</StoreOnly>
+</FileData>
+<FileData>
+<FldRef>0</FldRef>
+<FullName>weight15\VoiceList.txt</FullName>
+<FileName>VoiceList.txt</FileName>
+<Source>weight15</Source>
+<Ext>txt</Ext>
+<RTSource>Archive</RTSource>
+<Desc/>
+<Recurse>1</Recurse>
+<MatchMode>0</MatchMode>
+<Dest>%AppFolder%</Dest>
+<Overwrite>1</Overwrite>
+<Backup>0</Backup>
+<Protect>0</Protect>
+<InstallOrder>1000</InstallOrder>
+<SCStartRoot>0</SCStartRoot>
+<SCStartProgs>0</SCStartProgs>
+<SCAppFld>0</SCAppFld>
+<SCStartup>0</SCStartup>
+<SCDesk>0</SCDesk>
+<SCQLaunch>0</SCQLaunch>
+<SCCust>0</SCCust>
+<CustSCPath/>
+<SCDesc>VoiceList</SCDesc>
+<SCComment/>
+<SCArgs/>
+<SCWork/>
+<UseExtIco>0</UseExtIco>
+<IcoFN/>
+<IcoIdx>0</IcoIdx>
+<IcoShowMd>0</IcoShowMd>
+<IcoHK>0</IcoHK>
+<RegTTF>0</RegTTF>
+<TTFName/>
+<RegOCX>0</RegOCX>
+<RegTLB>0</RegTLB>
+<SupInUse>0</SupInUse>
+<Compress>1</Compress>
+<UseOrigAttr>1</UseOrigAttr>
+<Attr>0</Attr>
+<NoCRC>0</NoCRC>
+<NoRemove>0</NoRemove>
+<Shared>0</Shared>
+<OSCond>
+<OS>32768</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+</OSCond>
+<RTCond/>
+<BuildConfigs>
+<Cfg>All</Cfg>
+</BuildConfigs>
+<Package>None</Package>
+<Packages/>
+<Notes/>
+<CompSize>0</CompSize>
+<CRC>0</CRC>
+<StoreOnly>0</StoreOnly>
+</FileData>
+<FileData>
+<FldRef>1</FldRef>
+<FullName>weight15\StatReport\*.*</FullName>
+<FileName>*.*</FileName>
+<Source>weight15\StatReport</Source>
+<Ext>*</Ext>
+<RTSource>Archive</RTSource>
+<Desc/>
+<Recurse>1</Recurse>
+<MatchMode>0</MatchMode>
+<Dest>%AppFolder%\StatReport</Dest>
+<Overwrite>1</Overwrite>
+<Backup>0</Backup>
+<Protect>0</Protect>
+<InstallOrder>1000</InstallOrder>
+<SCStartRoot>0</SCStartRoot>
+<SCStartProgs>0</SCStartProgs>
+<SCAppFld>0</SCAppFld>
+<SCStartup>0</SCStartup>
+<SCDesk>0</SCDesk>
+<SCQLaunch>0</SCQLaunch>
+<SCCust>0</SCCust>
+<CustSCPath/>
+<SCDesc/>
+<SCComment/>
+<SCArgs/>
+<SCWork/>
+<UseExtIco>0</UseExtIco>
+<IcoFN/>
+<IcoIdx>0</IcoIdx>
+<IcoShowMd>0</IcoShowMd>
+<IcoHK>0</IcoHK>
+<RegTTF>1</RegTTF>
+<TTFName/>
+<RegOCX>1</RegOCX>
+<RegTLB>1</RegTLB>
+<SupInUse>0</SupInUse>
+<Compress>1</Compress>
+<UseOrigAttr>1</UseOrigAttr>
+<Attr>0</Attr>
+<NoCRC>0</NoCRC>
+<NoRemove>0</NoRemove>
+<Shared>0</Shared>
+<OSCond>
+<OS>32768</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+</OSCond>
+<RTCond/>
+<BuildConfigs>
+<Cfg>All</Cfg>
+</BuildConfigs>
+<Package>None</Package>
+<Packages/>
+<Notes/>
+<CompSize>0</CompSize>
+<CRC>0</CRC>
+<StoreOnly>0</StoreOnly>
+</FileData>
+<FileData>
+<FldRef>1</FldRef>
+<FullName>weight15\Ticket\*.*</FullName>
+<FileName>*.*</FileName>
+<Source>weight15\Ticket</Source>
+<Ext>*</Ext>
+<RTSource>Archive</RTSource>
+<Desc/>
+<Recurse>1</Recurse>
+<MatchMode>0</MatchMode>
+<Dest>%AppFolder%\Ticket</Dest>
+<Overwrite>1</Overwrite>
+<Backup>0</Backup>
+<Protect>0</Protect>
+<InstallOrder>1000</InstallOrder>
+<SCStartRoot>0</SCStartRoot>
+<SCStartProgs>0</SCStartProgs>
+<SCAppFld>0</SCAppFld>
+<SCStartup>0</SCStartup>
+<SCDesk>0</SCDesk>
+<SCQLaunch>0</SCQLaunch>
+<SCCust>0</SCCust>
+<CustSCPath/>
+<SCDesc/>
+<SCComment/>
+<SCArgs/>
+<SCWork/>
+<UseExtIco>0</UseExtIco>
+<IcoFN/>
+<IcoIdx>0</IcoIdx>
+<IcoShowMd>0</IcoShowMd>
+<IcoHK>0</IcoHK>
+<RegTTF>1</RegTTF>
+<TTFName/>
+<RegOCX>1</RegOCX>
+<RegTLB>1</RegTLB>
+<SupInUse>0</SupInUse>
+<Compress>1</Compress>
+<UseOrigAttr>1</UseOrigAttr>
+<Attr>0</Attr>
+<NoCRC>0</NoCRC>
+<NoRemove>0</NoRemove>
+<Shared>0</Shared>
+<OSCond>
+<OS>32768</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+</OSCond>
+<RTCond/>
+<BuildConfigs>
+<Cfg>All</Cfg>
+</BuildConfigs>
+<Package>None</Package>
+<Packages/>
+<Notes/>
+<CompSize>0</CompSize>
+<CRC>0</CRC>
+<StoreOnly>0</StoreOnly>
+</FileData>
+<FileData>
+<FldRef>1</FldRef>
+<FullName>weight15\NumberVoc\*.*</FullName>
+<FileName>*.*</FileName>
+<Source>weight15\NumberVoc</Source>
+<Ext>*</Ext>
+<RTSource>Archive</RTSource>
+<Desc/>
+<Recurse>1</Recurse>
+<MatchMode>0</MatchMode>
+<Dest>%AppFolder%\NumberVoc</Dest>
+<Overwrite>1</Overwrite>
+<Backup>0</Backup>
+<Protect>0</Protect>
+<InstallOrder>1000</InstallOrder>
+<SCStartRoot>0</SCStartRoot>
+<SCStartProgs>0</SCStartProgs>
+<SCAppFld>0</SCAppFld>
+<SCStartup>0</SCStartup>
+<SCDesk>0</SCDesk>
+<SCQLaunch>0</SCQLaunch>
+<SCCust>0</SCCust>
+<CustSCPath/>
+<SCDesc/>
+<SCComment/>
+<SCArgs/>
+<SCWork/>
+<UseExtIco>0</UseExtIco>
+<IcoFN/>
+<IcoIdx>0</IcoIdx>
+<IcoShowMd>0</IcoShowMd>
+<IcoHK>0</IcoHK>
+<RegTTF>1</RegTTF>
+<TTFName/>
+<RegOCX>1</RegOCX>
+<RegTLB>1</RegTLB>
+<SupInUse>0</SupInUse>
+<Compress>1</Compress>
+<UseOrigAttr>1</UseOrigAttr>
+<Attr>0</Attr>
+<NoCRC>0</NoCRC>
+<NoRemove>0</NoRemove>
+<Shared>0</Shared>
+<OSCond>
+<OS>32768</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+</OSCond>
+<RTCond/>
+<BuildConfigs>
+<Cfg>All</Cfg>
+</BuildConfigs>
+<Package>None</Package>
+<Packages/>
+<Notes/>
+<CompSize>0</CompSize>
+<CRC>0</CRC>
+<StoreOnly>0</StoreOnly>
+</FileData>
+<FileData>
+<FldRef>1</FldRef>
+<FullName>weight15\Report\*.*</FullName>
+<FileName>*.*</FileName>
+<Source>weight15\Report</Source>
+<Ext>*</Ext>
+<RTSource>Archive</RTSource>
+<Desc/>
+<Recurse>1</Recurse>
+<MatchMode>0</MatchMode>
+<Dest>%AppFolder%\Report</Dest>
+<Overwrite>1</Overwrite>
+<Backup>0</Backup>
+<Protect>0</Protect>
+<InstallOrder>1000</InstallOrder>
+<SCStartRoot>0</SCStartRoot>
+<SCStartProgs>0</SCStartProgs>
+<SCAppFld>0</SCAppFld>
+<SCStartup>0</SCStartup>
+<SCDesk>0</SCDesk>
+<SCQLaunch>0</SCQLaunch>
+<SCCust>0</SCCust>
+<CustSCPath/>
+<SCDesc/>
+<SCComment/>
+<SCArgs/>
+<SCWork/>
+<UseExtIco>0</UseExtIco>
+<IcoFN/>
+<IcoIdx>0</IcoIdx>
+<IcoShowMd>0</IcoShowMd>
+<IcoHK>0</IcoHK>
+<RegTTF>1</RegTTF>
+<TTFName/>
+<RegOCX>1</RegOCX>
+<RegTLB>1</RegTLB>
+<SupInUse>0</SupInUse>
+<Compress>1</Compress>
+<UseOrigAttr>1</UseOrigAttr>
+<Attr>0</Attr>
+<NoCRC>0</NoCRC>
+<NoRemove>0</NoRemove>
+<Shared>0</Shared>
+<OSCond>
+<OS>32768</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+</OSCond>
+<RTCond/>
+<BuildConfigs>
+<Cfg>All</Cfg>
+</BuildConfigs>
+<Package>None</Package>
+<Packages/>
+<Notes/>
+<CompSize>0</CompSize>
+<CRC>0</CRC>
+<StoreOnly>0</StoreOnly>
+</FileData>
+<FileData>
+<FldRef>0</FldRef>
+<FullName>ComAssist\ComAssistant.exe</FullName>
+<FileName>ComAssistant.exe</FileName>
+<Source>ComAssist</Source>
+<Ext>exe</Ext>
+<RTSource>Archive</RTSource>
+<Desc/>
+<Recurse>1</Recurse>
+<MatchMode>0</MatchMode>
+<Dest>%AppFolder%</Dest>
+<Overwrite>2</Overwrite>
+<Backup>0</Backup>
+<Protect>0</Protect>
+<InstallOrder>1000</InstallOrder>
+<SCStartRoot>0</SCStartRoot>
+<SCStartProgs>0</SCStartProgs>
+<SCAppFld>1</SCAppFld>
+<SCStartup>0</SCStartup>
+<SCDesk>0</SCDesk>
+<SCQLaunch>0</SCQLaunch>
+<SCCust>0</SCCust>
+<CustSCPath/>
+<SCDesc>´®¿Úµ÷ÊÔÖúÊÖ</SCDesc>
+<SCComment/>
+<SCArgs/>
+<SCWork/>
+<UseExtIco>0</UseExtIco>
+<IcoFN/>
+<IcoIdx>0</IcoIdx>
+<IcoShowMd>0</IcoShowMd>
+<IcoHK>0</IcoHK>
+<RegTTF>0</RegTTF>
+<TTFName/>
+<RegOCX>0</RegOCX>
+<RegTLB>0</RegTLB>
+<SupInUse>0</SupInUse>
+<Compress>1</Compress>
+<UseOrigAttr>1</UseOrigAttr>
+<Attr>0</Attr>
+<NoCRC>0</NoCRC>
+<NoRemove>0</NoRemove>
+<Shared>0</Shared>
+<OSCond>
+<OS>32768</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+</OSCond>
+<RTCond/>
+<BuildConfigs>
+<Cfg>All</Cfg>
+</BuildConfigs>
+<Package>None</Package>
+<Packages/>
+<Notes/>
+<CompSize>0</CompSize>
+<CRC>0</CRC>
+<StoreOnly>0</StoreOnly>
+</FileData>
+<FileData>
+<FldRef>0</FldRef>
+<FullName>weight15\µ¼ÈëÊý¾ÝÑù±¾.xls</FullName>
+<FileName>µ¼ÈëÊý¾ÝÑù±¾.xls</FileName>
+<Source>weight15</Source>
+<Ext>xls</Ext>
+<RTSource>Archive</RTSource>
+<Desc/>
+<Recurse>1</Recurse>
+<MatchMode>0</MatchMode>
+<Dest>%AppFolder%</Dest>
+<Overwrite>2</Overwrite>
+<Backup>0</Backup>
+<Protect>0</Protect>
+<InstallOrder>1000</InstallOrder>
+<SCStartRoot>0</SCStartRoot>
+<SCStartProgs>0</SCStartProgs>
+<SCAppFld>0</SCAppFld>
+<SCStartup>0</SCStartup>
+<SCDesk>0</SCDesk>
+<SCQLaunch>0</SCQLaunch>
+<SCCust>0</SCCust>
+<CustSCPath/>
+<SCDesc>µ¼ÈëÊý¾ÝÑù±¾</SCDesc>
+<SCComment/>
+<SCArgs/>
+<SCWork/>
+<UseExtIco>0</UseExtIco>
+<IcoFN/>
+<IcoIdx>0</IcoIdx>
+<IcoShowMd>0</IcoShowMd>
+<IcoHK>0</IcoHK>
+<RegTTF>0</RegTTF>
+<TTFName/>
+<RegOCX>0</RegOCX>
+<RegTLB>0</RegTLB>
+<SupInUse>0</SupInUse>
+<Compress>1</Compress>
+<UseOrigAttr>1</UseOrigAttr>
+<Attr>0</Attr>
+<NoCRC>0</NoCRC>
+<NoRemove>0</NoRemove>
+<Shared>0</Shared>
+<OSCond>
+<OS>32768</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+</OSCond>
+<RTCond/>
+<BuildConfigs>
+<Cfg>All</Cfg>
+</BuildConfigs>
+<Package>None</Package>
+<Packages/>
+<Notes/>
+<CompSize>0</CompSize>
+<CRC>0</CRC>
+<StoreOnly>0</StoreOnly>
+</FileData>
+</ArchiveFiles>
+<ExternalFiles/>
+<BeforeInstallingScreens>
+<Screen>
+<Type>100</Type>
+<Name>¿ªÊ¼°²×°</Name>
+<BannerStyle>1</BannerStyle>
+<TemplateName>Welcome to Setup</TemplateName>
+<OverrideProjTheme>0</OverrideProjTheme>
+<StyleData>
+<CstClrs>0</CstClrs>
+<TBBG format="hex">ffffff</TBBG>
+<BDYBG format="hex">ece9d8</BDYBG>
+<FTBG format="hex">ece9d8</FTBG>
+<TBTXT format="hex">000000</TBTXT>
+<BDYTXT format="hex">000000</BDYTXT>
+<CBG format="hex">ffffff</CBG>
+<C3DFACE format="hex">ece9d8</C3DFACE>
+<C3DHLT format="hex">ece9d8</C3DHLT>
+<C3DLIT format="hex">ffffff</C3DLIT>
+<C3DSH format="hex">aca899</C3DSH>
+<CBTNTXT format="hex">000000</CBTNTXT>
+<CTEXT format="hex">000000</CTEXT>
+<CDISTXT format="hex">aca899</CDISTXT>
+<CPRGRS format="hex">316ac5</CPRGRS>
+<C3DSHDK format="hex">716f64</C3DSHDK>
+<TBIMG>111_X_63_keyboard.jpg</TBIMG>
+<SBIMG>166_X_312_keyboard.jpg</SBIMG>
+<BDIMG/>
+<BDFILL>0</BDFILL>
+<HDSEP>1</HDSEP>
+<FTSEP>1</FTSEP>
+<CstFnts>0</CstFnts>
+<Fonts>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>700</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>700</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-24</Height>
+<Weight>700</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>400</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>400</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+</Fonts>
+<CAOff>
+<TP>0</TP>
+<L>15</L>
+<T>15</T>
+<R>15</R>
+<B>15</B>
+</CAOff>
+<CAOff>
+<TP>1</TP>
+<L>15</L>
+<T>15</T>
+<R>15</R>
+<B>15</B>
+</CAOff>
+<CAOff>
+<TP>2</TP>
+<L>15</L>
+<T>15</T>
+<R>15</R>
+<B>15</B>
+</CAOff>
+<TBTXTX>10</TBTXTX>
+<TBTXTY>10</TBTXTY>
+<ScreenW>497</ScreenW>
+<ScreenH>362</ScreenH>
+</StyleData>
+<Events>
+<Event>
+<Name>On Preload</Name>
+<Args/>
+<Script>-- ÕâÐ©²Ù×÷ÔÚÆÁÄ»ÏÔÊ¾Ö®Ç°Ö´ÐÐ¡£
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Back</Name>
+<Args/>
+<Script>-- ÕâÐ©²Ù×÷ÔÚµã»÷¡°·µ»Ø¡±°´Å¥Ê±Ö´ÐÐ¡£
+
+-- ·µ»Øµ½ÉÏÒ»¸öÆÁÄ»
+Screen.Back();
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Next</Name>
+<Args/>
+<Script>-- ÕâÐ©²Ù×÷ÔÚµã»÷¡°ÏÂÒ»²½¡±°´Å¥Ê±Ö´ÐÐ¡£
+
+-- ½øÈëÏÂÒ»¸öÆÁÄ»
+Screen.Next();
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Cancel</Name>
+<Args/>
+<Script>-- ÕâÐ©²Ù×÷ÔÚµã»÷¡°È¡Ïû¡±°´Å¥Ê±Ö´ÐÐ¡£
+
+-- À´×Ô _SUF70_Global_Functions.lua:
+-- Ñ¯ÎÊÓÃ»§ÊÇ·ñÈ·¶¨ÒªÍË³ö
+if g_ConfirmSetupAbort() then
+	Application.Exit(EXIT_REASON_USER_ABORTED);
+end
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Help</Name>
+<Args/>
+<Script>-- ÕâÐ©²Ù×÷ÔÚµã»÷¡°°ïÖú¡±°´Å¥Ê±Ö´ÐÐ¡£
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Ctrl Message</Name>
+<Args>number e_CtrlID, number e_MsgID, table e_Details</Args>
+<Script>-- ÕâÐ©²Ù×÷ÓÉÆÁÄ»ÉÏµÄ¿Ø¼þ´¥·¢¡£
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+</Events>
+<Controls>
+<Control>
+<Type>1</Type>
+<ID>103</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>75</TabOrder>
+<FTButton>1</FTButton>
+</Control>
+<Control>
+<Type>1</Type>
+<ID>101</ID>
+<Visible>1</Visible>
+<Enabled>0</Enabled>
+<TabOrder>76</TabOrder>
+<FTButton>1</FTButton>
+</Control>
+<Control>
+<Type>1</Type>
+<ID>100</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>77</TabOrder>
+<FTButton>1</FTButton>
+</Control>
+<Control>
+<Type>1</Type>
+<ID>102</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>78</TabOrder>
+<FTButton>1</FTButton>
+</Control>
+<Control>
+<Type>2</Type>
+<ID>200</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>1</TabOrder>
+<IsHeading>0</IsHeading>
+</Control>
+<Control>
+<Type>2</Type>
+<ID>300</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>0</TabOrder>
+<IsHeading>1</IsHeading>
+</Control>
+</Controls>
+<Languages>
+<SUF70Messages>
+<Language>
+<Name>Chinese (Traditional)</Name>
+<Default>0</Default>
+<Primary>4</Primary>
+<Secondary>
+<ID>1</ID>
+</Secondary>
+</Language>
+<Messages>
+<IDS_WINDOW_TITLE>%ProductName% ¦w¸Ëµ{¦¡</IDS_WINDOW_TITLE>
+<IDS_HEADER_TEXT>Åwªï¨Ï¥Î</IDS_HEADER_TEXT>
+<IDS_SUBHEADER_TEXT>Åwªï±z¨Ï¥Î %ProductName% %ProductVer% ¦w¸ËºëÆF</IDS_SUBHEADER_TEXT>
+<IDS_CTRL_BUTTON_NEXT>&amp;¤U¤@¨B &gt;</IDS_CTRL_BUTTON_NEXT>
+<IDS_CTRL_BUTTON_BACK>&lt; &amp;ªð¦^</IDS_CTRL_BUTTON_BACK>
+<IDS_CTRL_BUTTON_CANCEL>&amp;¨ú®ø</IDS_CTRL_BUTTON_CANCEL>
+<IDS_CTRL_BUTTON_HELP>&amp;À°§U</IDS_CTRL_BUTTON_HELP>
+<IDS_CTRL_STATICTEXT_BODY>Åwªï¨Ï¥Î %ProductName% %ProductVer% ¦w¸ËºëÆF
+
+«ØÄ³±z¦bÄ~Äò¥»¦w¸Ëµ{¦¡¤§«e¡A¥ýÃö³¬¨t²Î¤W¥¿¦b°õ¦æªº¨ä¥Lµ{¦¡¡C
+
+¦pªG±z­n°õ¦æ¨ä¥Lµ{¦¡, ½ÐÂI¿ï¨ú®ø¶s, Ãö³¬¦w¸Ëµ{¦¡, ¦A­«·s°õ¦æ¤@¦¸¡C
+
+§_«h¡A½Ð«ö¤U¤@¨BÄ~Äò
+</IDS_CTRL_STATICTEXT_BODY>
+<IDS_CTRL_HEADINGTEXT_BODY>Åwªï</IDS_CTRL_HEADINGTEXT_BODY>
+</Messages>
+</SUF70Messages>
+<SUF70Messages>
+<Language>
+<Name>Chinese (Simplified)</Name>
+<Default>1</Default>
+<Primary>4</Primary>
+<Secondary>
+<ID>2</ID>
+<ID>3</ID>
+<ID>4</ID>
+<ID>5</ID>
+</Secondary>
+</Language>
+<Messages>
+<IDS_WINDOW_TITLE> ³ÆÖØÏµÍ³ °²×°³ÌÐò</IDS_WINDOW_TITLE>
+<IDS_HEADER_TEXT>»¶Ó­</IDS_HEADER_TEXT>
+<IDS_SUBHEADER_TEXT>»¶Ó­Ê¹ÓÃ %ProductName% %ProductVer% °²×°³ÌÐò</IDS_SUBHEADER_TEXT>
+<IDS_CTRL_BUTTON_NEXT>ÏÂÒ»²½(&amp;N) &gt;</IDS_CTRL_BUTTON_NEXT>
+<IDS_CTRL_BUTTON_BACK>&lt; ·µ»Ø(&amp;B)</IDS_CTRL_BUTTON_BACK>
+<IDS_CTRL_BUTTON_CANCEL>È¡Ïû(&amp;C)</IDS_CTRL_BUTTON_CANCEL>
+<IDS_CTRL_BUTTON_HELP>°ïÖú(&amp;H)</IDS_CTRL_BUTTON_HELP>
+<IDS_CTRL_STATICTEXT_BODY>»¶Ó­Ê¹ÓÃ ³ÆÖØÏµÍ³ °²×°³ÌÐò¡£
+
+Ç¿ÁÒ½¨ÒéÄúÔÚ¼ÌÐø¸Ã°²×°Ö®Ç°£¬ÍË³öËùÓÐ Windows ³ÌÐò¡£
+
+Èç¹ûÄúÓÐÈÎºÎÆäËû³ÌÐòÕýÔÚÔËÐÐ£¬Çëµ¥»÷¡°È¡Ïû¡±£¬¹Ø±Õ³ÌÐò£¬È»ºóÔÙ´ÎÔËÐÐ¸Ã°²×°³ÌÐò¡£
+
+·ñÔò£¬Çëµ¥»÷¡°ÏÂÒ»²½¡±¼ÌÐø¡£
+</IDS_CTRL_STATICTEXT_BODY>
+<IDS_CTRL_HEADINGTEXT_BODY>»¶Ó­</IDS_CTRL_HEADINGTEXT_BODY>
+</Messages>
+</SUF70Messages>
+<SUF70Messages>
+<Language>
+<Name>English</Name>
+<Default>0</Default>
+<Primary>9</Primary>
+<Secondary>
+<ID>1</ID>
+<ID>2</ID>
+<ID>3</ID>
+<ID>4</ID>
+<ID>5</ID>
+<ID>6</ID>
+<ID>7</ID>
+<ID>8</ID>
+<ID>9</ID>
+<ID>10</ID>
+<ID>11</ID>
+<ID>12</ID>
+<ID>13</ID>
+</Secondary>
+</Language>
+<Messages>
+<IDS_WINDOW_TITLE>%ProductName% Setup</IDS_WINDOW_TITLE>
+<IDS_HEADER_TEXT>Welcome</IDS_HEADER_TEXT>
+<IDS_SUBHEADER_TEXT>Welcome to the installer for %ProductName% %ProductVer%</IDS_SUBHEADER_TEXT>
+<IDS_CTRL_BUTTON_NEXT>&amp;Next &gt;</IDS_CTRL_BUTTON_NEXT>
+<IDS_CTRL_BUTTON_BACK>&lt; &amp;Back</IDS_CTRL_BUTTON_BACK>
+<IDS_CTRL_BUTTON_CANCEL>&amp;Cancel</IDS_CTRL_BUTTON_CANCEL>
+<IDS_CTRL_BUTTON_HELP>&amp;Help</IDS_CTRL_BUTTON_HELP>
+<IDS_CTRL_STATICTEXT_BODY>Welcome to the installer for %ProductName% %ProductVer%.
+
+It is strongly recommended that you exit all Windows programs before continuing with this installation.
+
+If you have any other programs running, please click Cancel, close the programs, and run this setup again.
+
+Otherwise, click Next to continue.
+</IDS_CTRL_STATICTEXT_BODY>
+<IDS_CTRL_HEADINGTEXT_BODY>Welcome</IDS_CTRL_HEADINGTEXT_BODY>
+</Messages>
+</SUF70Messages>
+</Languages>
+</Screen>
+<Screen>
+<Type>110</Type>
+<Name>Ñ¡Ôñ°²×°ÎÄ¼þ¼Ð</Name>
+<BannerStyle>2</BannerStyle>
+<TemplateName>Select Install Folder</TemplateName>
+<OverrideProjTheme>0</OverrideProjTheme>
+<StyleData>
+<CstClrs>0</CstClrs>
+<TBBG format="hex">ffffff</TBBG>
+<BDYBG format="hex">ece9d8</BDYBG>
+<FTBG format="hex">ece9d8</FTBG>
+<TBTXT format="hex">000000</TBTXT>
+<BDYTXT format="hex">000000</BDYTXT>
+<CBG format="hex">ffffff</CBG>
+<C3DFACE format="hex">ece9d8</C3DFACE>
+<C3DHLT format="hex">ece9d8</C3DHLT>
+<C3DLIT format="hex">ffffff</C3DLIT>
+<C3DSH format="hex">aca899</C3DSH>
+<CBTNTXT format="hex">000000</CBTNTXT>
+<CTEXT format="hex">000000</CTEXT>
+<CDISTXT format="hex">aca899</CDISTXT>
+<CPRGRS format="hex">316ac5</CPRGRS>
+<C3DSHDK format="hex">716f64</C3DSHDK>
+<TBIMG>111_X_63_keyboard.jpg</TBIMG>
+<SBIMG>166_X_312_keyboard.jpg</SBIMG>
+<BDIMG/>
+<BDFILL>0</BDFILL>
+<HDSEP>1</HDSEP>
+<FTSEP>1</FTSEP>
+<CstFnts>0</CstFnts>
+<Fonts>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>700</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>700</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-24</Height>
+<Weight>700</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>400</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>400</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+</Fonts>
+<CAOff>
+<TP>0</TP>
+<L>15</L>
+<T>15</T>
+<R>15</R>
+<B>15</B>
+</CAOff>
+<CAOff>
+<TP>1</TP>
+<L>15</L>
+<T>15</T>
+<R>15</R>
+<B>15</B>
+</CAOff>
+<CAOff>
+<TP>2</TP>
+<L>15</L>
+<T>15</T>
+<R>15</R>
+<B>15</B>
+</CAOff>
+<TBTXTX>10</TBTXTX>
+<TBTXTY>10</TBTXTY>
+<ScreenW>497</ScreenW>
+<ScreenH>362</ScreenH>
+</StyleData>
+<Variable>%AppFolder%</Variable>
+<Events>
+<Event>
+<Name>On Preload</Name>
+<Args/>
+<Script>-- ÕâÐ©²Ù×÷ÔÚÆÁÄ»ÏÔÊ¾Ö®Ç°Ö´ÐÐ¡£
+
+-- ¼ÆËã°²×°ËùÐèÒªµÄ¿Õ¼ä
+_SpaceRequired = SetupData.CalculateRequiredSpace();
+
+-- ÒÔÒ»¸öÊÊµ±µÄ¶ÈÁ¿µ¥Î»À´½«Æä¸ñÊ½»¯ÎªÒ»¸ö×Ö·û´® (Èç£º"0 ×Ö½Ú")
+local strSpaceRequired = String.GetFormattedSize(_SpaceRequired);
+
+-- ½«×Ö·û´®´¢´æÔÚÒ»¸ö»á»°±äÁ¿ÖÐ£¬ÒÔ±ãËü¿ÉÒÔÓÃÔÚÆÁÄ»ÎÄ±¾ÖÐ
+SessionVar.Set("%SpaceRequired%", strSpaceRequired);
+
+-- À´×Ô _SUF70_Global_Functions.lua:
+-- ¸üÐÂ¡°ËùÐè¿Õ¼ä:¡±ÐÅÏ¢ (À©Õ¹ÆäÖÐµÄÈÎÒâ»á»°±äÁ¿)
+g_UpdateStaticTextCtrl(CTRL_STATICTEXT_SPACEREQUIRED, "IDS_CTRL_STATICTEXT_SPACEREQUIRED");
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Back</Name>
+<Args/>
+<Script>-- ÕâÐ©²Ù×÷ÔÚµã»÷¡°·µ»Ø¡±°´Å¥Ê±Ö´ÐÐ¡£
+
+-- ·µ»Øµ½ÉÏÒ»¸öÆÁÄ»
+Screen.Back();
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Next</Name>
+<Args/>
+<Script>-- ÕâÐ©²Ù×÷ÔÚµã»÷¡°ÏÂÒ»²½¡±°´Å¥Ê±Ö´ÐÐ¡£
+
+-- À´×Ô _SUF70_Global_Functions.lua:
+-- È·¶¨°²×°ÎÄ¼þ¼ÐµÄÂ·¾¶¸ñÊ½ÕýÈ· (¼´ÊÇÒ»¸öÓÐÐ§µÄ UNC »ò DOS Â·¾¶×Ö·û´®)
+if(g_IsValidPath(strInstallFolderPath)) then
+
+	-- Èç¹ûËùÑ¡Çý¶¯Æ÷ÉÏÓÐ×ã¹»¿Õ¼ä£¬¾Í¼ÌÐøÏÂÒ»¸öÆÁÄ»
+	if(_SpaceAvailable &gt;= _SpaceRequired) then
+		-- Çý¶¯Æ÷ÉÏÓÐ×ã¹»¿Õ¼ä...ÄÇÃ´
+		-- ¼ÌÐøÏÂÒ»¸öÆÁÄ»
+		Screen.Next();
+	else
+		-- Çý¶¯Æ÷ÉÏÃ»ÓÐ×ã¹»¿Õ¼ä...
+		
+		-- À´×Ô _SUF70_Global_Functions.lua:
+		-- Ñ¯ÎÊÓÃ»§ÊÇ·ñÎÞÂÛÈçºÎÒ²Òª¼ÌÐø
+		if g_ConfirmFreeSpaceOverride() then
+			-- ÓÃ»§È·¶¨Òª¼ÌÐø°²×°...ÄÇÃ´
+			-- ½øÈëÏÂÒ»¸öÆÁÄ»
+			Screen.Next();
+		end
+	end
+else
+	-- °²×°ÎÄ¼þ¼ÐÂ·¾¶ÎÞÐ§...
+	
+	local strTitle = SetupData.GetLocalizedString("MSG_INVALID_ENTRY");
+	local strPrompt;
+
+	-- À´×Ô _SUF70_Global_Functions.lua:
+	-- ¼ì²é°²×°ÎÄ¼þ¼ÐÂ·¾¶ÊÇ·ñÖ»°üº¬ÁËÓÐÐ§µÄÂ·¾¶×Ö·û
+	if(g_ContainsValidPathChars(strInstallFolderPath)) then
+		-- ×Ö·û´®¸ñÊ½´íÎó
+		strPrompt = SetupData.GetLocalizedString("ERR_INVALID_PATH");
+	else
+		-- ×Ö·û´®°üº¬ÎÞÐ§µÄ×Ö·û
+		strPrompt = SetupData.GetLocalizedString("ERR_INVALID_CHARACTERS") .. "\r\n/ * ? \" &lt; &gt; |";		
+	end
+
+	-- ¸æËßÓÃ»§ÐèÒªÐÞÕýÂ·¾¶
+	Dialog.Message(strTitle, strPrompt, MB_OK, MB_ICONEXCLAMATION);
+end
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Cancel</Name>
+<Args/>
+<Script>-- ÕâÐ©²Ù×÷ÔÚµã»÷¡°È¡Ïû¡±°´Å¥Ê±Ö´ÐÐ¡£
+
+-- À´×Ô _SUF70_Global_Functions.lua:
+-- Ñ¯ÎÊÓÃ»§ÊÇ·ñÈ·¶¨ÒªÍË³ö
+if g_ConfirmSetupAbort() then
+	Application.Exit(EXIT_REASON_USER_ABORTED);
+end
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Help</Name>
+<Args/>
+<Script>-- ÕâÐ©²Ù×÷ÔÚµã»÷¡°°ïÖú¡±°´Å¥Ê±Ö´ÐÐ¡£
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Ctrl Message</Name>
+<Args>number e_CtrlID, number e_MsgID, table e_Details</Args>
+<Script>-- ÕâÐ©²Ù×÷ÓÉÆÁÄ»ÉÏµÄ¿Ø¼þ´¥·¢¡£
+
+if(e_CtrlID == CTRL_BUTTON_BROWSE) then
+	-- ¿ØÖÆÐÅÏ¢À´×Ôä¯ÀÀ°´Å¥...
+
+	-- Èç¹ûËüÊÇµã»÷ÐÅÏ¢£¬¾ÍÏÔÊ¾ä¯ÀÀ¶Ô»°¿ò
+	-- ²¢¸üÐÂ°²×°ÎÄ¼þ¼Ð
+	if (e_MsgID == MSGID_CLICKED) then
+
+		-- ´Ó°²×°ÎÄ¼þ¼ÐÒ»À¸»ñÈ¡ÎÄ±¾
+		-- (Õâ½«ÓÃ×÷ä¯ÀÀ¶Ô»°¿òµÄÌáÊ¾)
+		local strPrompt = Screen.GetLocalizedString("IDS_CTRL_STATICTEXT_LABEL_01");
+		strPrompt = SessionVar.Expand(strPrompt);
+		
+		-- À´×Ô _SUF70_Global_Functions.lua:
+		-- ÏÔÊ¾ÎÄ¼þ¼Ðä¯ÀÀ¶Ô»°¿ò£¬ÒÔ¸ü¸Ä°²×°ÎÄ¼þ¼ÐÒ»À¸ÖÐµÄÂ·¾¶
+		g_EditFieldFolderBrowse(CTRL_EDIT_FOLDER, strPrompt);
+	end
+end
+
+
+if(e_CtrlID == CTRL_EDIT_FOLDER) then
+	-- ¿ØÖÆÐÅÏ¢À´×Ô°²×°ÎÄ¼þ¼ÐÒ»À¸...
+
+	-- Èç¹ûËüÊÇ OnChanged ÐÅÏ¢ (¼´°²×°Â·¾¶ÒÑ¸ü¸Ä)
+	-- ÖØÐÂ¼ÆËãËùÑ¡Çý¶¯Æ÷ÉÏµÄ¿ÉÓÃ¿Õ¼ä
+	if (e_MsgID == MSGID_ONCHANGED) then
+
+		strInstallFolderPath = e_Details.Text;
+		
+		-- À´×Ô _SUF70_Global_Functions.lua:
+		-- ¼ÆËãËùÑ¡Çý¶¯Æ÷ÉÏµÄ¿ÉÓÃ´ÅÅÌ¿Õ¼ä
+		_SpaceAvailable = g_GetFreeSpaceInBytes(strInstallFolderPath);
+
+		-- ÒÔÒ»¸ö¶ÈÁ¿µ¥Î»½« %SpaceAvailable% ÉèÖÃµ½Ò»¸ö×Ö·û´® (Èç£º"0 ×Ö½Ú")
+		SessionVar.Set("%SpaceAvailable%", String.GetFormattedSize(_SpaceAvailable) );
+
+		-- À´×Ô _SUF70_Global_Functions.lua:
+		-- ¸üÐÂ¡°ËùÑ¡Çý¶¯Æ÷ÉÏµÄ¿ÉÓÃ¿Õ¼ä:¡±ÐÅÏ¢ (À©Õ¹ÆäÖÐµÄÈÎÒâ»á»°±äÁ¿)
+		g_UpdateStaticTextCtrl(CTRL_STATICTEXT_SPACEAVAILABLE, "IDS_CTRL_STATICTEXT_SPACEAVAILABLE");
+	end
+end
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+</Events>
+<Controls>
+<Control>
+<Type>1</Type>
+<ID>103</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>75</TabOrder>
+<FTButton>1</FTButton>
+</Control>
+<Control>
+<Type>1</Type>
+<ID>101</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>76</TabOrder>
+<FTButton>1</FTButton>
+</Control>
+<Control>
+<Type>1</Type>
+<ID>100</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>-10</TabOrder>
+<FTButton>1</FTButton>
+</Control>
+<Control>
+<Type>1</Type>
+<ID>102</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>-9</TabOrder>
+<FTButton>1</FTButton>
+</Control>
+<Control>
+<Type>2</Type>
+<ID>203</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>1</TabOrder>
+<IsHeading>0</IsHeading>
+</Control>
+<Control>
+<Type>2</Type>
+<ID>211</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>2</TabOrder>
+<IsHeading>0</IsHeading>
+</Control>
+<Control>
+<Type>6</Type>
+<ID>801</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>3</TabOrder>
+<TextAlign>0</TextAlign>
+<VertScroll>0</VertScroll>
+<HorizScroll>0</HorizScroll>
+<RTLReadingOrder>0</RTLReadingOrder>
+<Style>0</Style>
+<Mode>0</Mode>
+<MaskReturnMode>1</MaskReturnMode>
+<ReadOnly>0</ReadOnly>
+<StartNewRow>1</StartNewRow>
+<SizeColumns>4</SizeColumns>
+<Variable>%AppFolder%</Variable>
+</Control>
+<Control>
+<Type>1</Type>
+<ID>110</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>4</TabOrder>
+<FTButton>0</FTButton>
+</Control>
+<Control>
+<Type>2</Type>
+<ID>208</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>5</TabOrder>
+<IsHeading>0</IsHeading>
+</Control>
+<Control>
+<Type>2</Type>
+<ID>207</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>6</TabOrder>
+<IsHeading>0</IsHeading>
+</Control>
+</Controls>
+<Languages>
+<SUF70Messages>
+<Language>
+<Name>Chinese (Traditional)</Name>
+<Default>0</Default>
+<Primary>4</Primary>
+<Secondary>
+<ID>1</ID>
+</Secondary>
+</Language>
+<Messages>
+<IDS_WINDOW_TITLE>%ProductName% ¦w¸Ëµ{¦¡</IDS_WINDOW_TITLE>
+<IDS_HEADER_TEXT>¦w¸Ë¥Ø¿ý</IDS_HEADER_TEXT>
+<IDS_SUBHEADER_TEXT>±z·Q¦w¸Ë %ProductName% ¨ì­þ­Ó¥Ø¿ý?</IDS_SUBHEADER_TEXT>
+<IDS_CTRL_BUTTON_NEXT>&amp;¤U¤@¨B &gt;</IDS_CTRL_BUTTON_NEXT>
+<IDS_CTRL_BUTTON_BACK>&lt; &amp;ªð¦^</IDS_CTRL_BUTTON_BACK>
+<IDS_CTRL_BUTTON_CANCEL>&amp;¨ú®ø</IDS_CTRL_BUTTON_CANCEL>
+<IDS_CTRL_BUTTON_HELP>&amp;À°§U</IDS_CTRL_BUTTON_HELP>
+<IDS_CTRL_BUTTON_BROWSE>ÅÜ§ó...</IDS_CTRL_BUTTON_BROWSE>
+<IDS_CTRL_EDIT_FOLDER>%AppFolder%</IDS_CTRL_EDIT_FOLDER>
+<IDS_CTRL_STATICTEXT_TOPINSTRUCTIONS>À³¥Îµ{¦¡±N¦w¸Ë¨ì¤U¦C¥Ø¿ý. ­Y·QÅÜ§ó¦ì¸m, ¿é¤J·sªº¸ô®|, ©Î«öÅÜ§ó¥HÂsø°¤@­Ó·sªº¸ô®|</IDS_CTRL_STATICTEXT_TOPINSTRUCTIONS>
+<IDS_CTRL_STATICTEXT_LABEL_01>¦w¸Ë %ProductName% ¨ì:</IDS_CTRL_STATICTEXT_LABEL_01>
+<IDS_CTRL_STATICTEXT_SPACEREQUIRED>ªÅ¶¡»Ý¨D: %SpaceRequired%</IDS_CTRL_STATICTEXT_SPACEREQUIRED>
+<IDS_CTRL_STATICTEXT_SPACEAVAILABLE>©Ò¿ï¾ÜªººÏºÐ¥i¥ÎªÅ¶¡: %SpaceAvailable%</IDS_CTRL_STATICTEXT_SPACEAVAILABLE>
+</Messages>
+</SUF70Messages>
+<SUF70Messages>
+<Language>
+<Name>Chinese (Simplified)</Name>
+<Default>1</Default>
+<Primary>4</Primary>
+<Secondary>
+<ID>2</ID>
+<ID>3</ID>
+<ID>4</ID>
+<ID>5</ID>
+</Secondary>
+</Language>
+<Messages>
+<IDS_WINDOW_TITLE> ³ÆÖØÏµÍ³ °²×°³ÌÐò</IDS_WINDOW_TITLE>
+<IDS_HEADER_TEXT> °²×°ÎÄ¼þ¼Ð</IDS_HEADER_TEXT>
+<IDS_SUBHEADER_TEXT> ÄúÏë½« ³ÆÖØÏµÍ³ °²×°µ½ºÎ´¦£¿</IDS_SUBHEADER_TEXT>
+<IDS_CTRL_BUTTON_NEXT>ÏÂÒ»²½(&amp;N) &gt;</IDS_CTRL_BUTTON_NEXT>
+<IDS_CTRL_BUTTON_BACK>&lt; ·µ»Ø(&amp;B)</IDS_CTRL_BUTTON_BACK>
+<IDS_CTRL_BUTTON_CANCEL>È¡Ïû(&amp;C)</IDS_CTRL_BUTTON_CANCEL>
+<IDS_CTRL_BUTTON_HELP>°ïÖú(&amp;H)</IDS_CTRL_BUTTON_HELP>
+<IDS_CTRL_BUTTON_BROWSE>¸ü¸Ä(&amp;H)...</IDS_CTRL_BUTTON_BROWSE>
+<IDS_CTRL_EDIT_FOLDER>%AppFolder%</IDS_CTRL_EDIT_FOLDER>
+<IDS_CTRL_STATICTEXT_TOPINSTRUCTIONS>Èí¼þ½«±»°²×°µ½ÒÔÏÂÁÐ³öµÄÎÄ¼þ¼ÐÖÐ¡£ÒªÑ¡Ôñ²»Í¬µÄÎ»ÖÃ£¬¼üÈëÐÂµÄÂ·¾¶£¬»òµ¥»÷¡°¸ü¸Ä¡±ä¯ÀÀÏÖÓÐµÄÎÄ¼þ¼Ð¡£</IDS_CTRL_STATICTEXT_TOPINSTRUCTIONS>
+<IDS_CTRL_STATICTEXT_LABEL_01>½« ³ÆÖØÏµÍ³ °²×°µ½:</IDS_CTRL_STATICTEXT_LABEL_01>
+<IDS_CTRL_STATICTEXT_SPACEREQUIRED>ËùÐè¿Õ¼ä: %SpaceRequired%</IDS_CTRL_STATICTEXT_SPACEREQUIRED>
+<IDS_CTRL_STATICTEXT_SPACEAVAILABLE>Ñ¡¶¨Çý¶¯Æ÷µÄ¿ÉÓÃ¿Õ¼ä: %SpaceAvailable%</IDS_CTRL_STATICTEXT_SPACEAVAILABLE>
+</Messages>
+</SUF70Messages>
+<SUF70Messages>
+<Language>
+<Name>English</Name>
+<Default>0</Default>
+<Primary>9</Primary>
+<Secondary>
+<ID>1</ID>
+<ID>2</ID>
+<ID>3</ID>
+<ID>4</ID>
+<ID>5</ID>
+<ID>6</ID>
+<ID>7</ID>
+<ID>8</ID>
+<ID>9</ID>
+<ID>10</ID>
+<ID>11</ID>
+<ID>12</ID>
+<ID>13</ID>
+</Secondary>
+</Language>
+<Messages>
+<IDS_WINDOW_TITLE>%ProductName% Setup</IDS_WINDOW_TITLE>
+<IDS_HEADER_TEXT>Installation Folder</IDS_HEADER_TEXT>
+<IDS_SUBHEADER_TEXT>Where would you like %ProductName% to be installed?</IDS_SUBHEADER_TEXT>
+<IDS_CTRL_BUTTON_NEXT>&amp;Next &gt;</IDS_CTRL_BUTTON_NEXT>
+<IDS_CTRL_BUTTON_BACK>&lt; &amp;Back</IDS_CTRL_BUTTON_BACK>
+<IDS_CTRL_BUTTON_CANCEL>&amp;Cancel</IDS_CTRL_BUTTON_CANCEL>
+<IDS_CTRL_BUTTON_HELP>&amp;Help</IDS_CTRL_BUTTON_HELP>
+<IDS_CTRL_BUTTON_BROWSE>C&amp;hange...</IDS_CTRL_BUTTON_BROWSE>
+<IDS_CTRL_EDIT_FOLDER>%AppFolder%</IDS_CTRL_EDIT_FOLDER>
+<IDS_CTRL_STATICTEXT_TOPINSTRUCTIONS>The software will be installed in the folder listed below. To select a different location, either type in a new path, or click Change to browse for an existing folder.</IDS_CTRL_STATICTEXT_TOPINSTRUCTIONS>
+<IDS_CTRL_STATICTEXT_LABEL_01>Install %ProductName% to:</IDS_CTRL_STATICTEXT_LABEL_01>
+<IDS_CTRL_STATICTEXT_SPACEREQUIRED>Space required: %SpaceRequired%</IDS_CTRL_STATICTEXT_SPACEREQUIRED>
+<IDS_CTRL_STATICTEXT_SPACEAVAILABLE>Space available on selected drive: %SpaceAvailable%</IDS_CTRL_STATICTEXT_SPACEAVAILABLE>
+</Messages>
+</SUF70Messages>
+</Languages>
+</Screen>
+</BeforeInstallingScreens>
+<DuringInstScreenData>
+<ShowProgress>1</ShowProgress>
+<Screens>
+<Screen>
+<Type>130</Type>
+<Name>Ò»¸ö½ø¶ÈÌõ (°²×°ÆÚ¼ä)</Name>
+<BannerStyle>2</BannerStyle>
+<TemplateName>One Progress Bar (While Installing)</TemplateName>
+<OverrideProjTheme>0</OverrideProjTheme>
+<StyleData>
+<CstClrs>0</CstClrs>
+<TBBG format="hex">ffffff</TBBG>
+<BDYBG format="hex">ece9d8</BDYBG>
+<FTBG format="hex">ece9d8</FTBG>
+<TBTXT format="hex">000000</TBTXT>
+<BDYTXT format="hex">000000</BDYTXT>
+<CBG format="hex">ffffff</CBG>
+<C3DFACE format="hex">ece9d8</C3DFACE>
+<C3DHLT format="hex">ece9d8</C3DHLT>
+<C3DLIT format="hex">ffffff</C3DLIT>
+<C3DSH format="hex">aca899</C3DSH>
+<CBTNTXT format="hex">000000</CBTNTXT>
+<CTEXT format="hex">000000</CTEXT>
+<CDISTXT format="hex">aca899</CDISTXT>
+<CPRGRS format="hex">316ac5</CPRGRS>
+<C3DSHDK format="hex">716f64</C3DSHDK>
+<TBIMG>111_X_63_keyboard.jpg</TBIMG>
+<SBIMG>166_X_312_keyboard.jpg</SBIMG>
+<BDIMG/>
+<BDFILL>0</BDFILL>
+<HDSEP>1</HDSEP>
+<FTSEP>1</FTSEP>
+<CstFnts>0</CstFnts>
+<Fonts>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>700</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>700</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-24</Height>
+<Weight>700</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>400</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>400</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+</Fonts>
+<CAOff>
+<TP>0</TP>
+<L>15</L>
+<T>15</T>
+<R>15</R>
+<B>15</B>
+</CAOff>
+<CAOff>
+<TP>1</TP>
+<L>15</L>
+<T>15</T>
+<R>15</R>
+<B>15</B>
+</CAOff>
+<CAOff>
+<TP>2</TP>
+<L>15</L>
+<T>15</T>
+<R>15</R>
+<B>15</B>
+</CAOff>
+<TBTXTX>10</TBTXTX>
+<TBTXTY>10</TBTXTY>
+<ScreenW>497</ScreenW>
+<ScreenH>362</ScreenH>
+</StyleData>
+<IsWhileInstallingMode>1</IsWhileInstallingMode>
+<Events>
+<Event>
+<Name>On Preload</Name>
+<Args/>
+<Script>-- ÕâÐ©²Ù×÷ÔÚÆÁÄ»ÏÔÊ¾Ö®Ç°Ö´ÐÐ¡£
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Progress</Name>
+<Args>number e_Stage, string e_CurrentItemText, number e_CurrentItemPct, number e_StagePct</Args>
+<Script>-- ÕâÐ©²Ù×÷ÔÚ°²×°ÎÄ¼þÊ±Ö´ÐÐ¡£
+
+--[[
+×¢Òâ£º
+	ÎÄ¼þ°²×°½ø¶È·ÖÎª 4 ¸ö°²×°½×¶Î£º
+
+	1. ×¼±¸°²×°
+	2. ÕýÔÚ°²×°ÎÄ¼þ
+	3. ÕýÔÚ´´½¨Ð¶ÔØ
+	4. ÕýÔÚ´´½¨¿ì½Ý·½Ê½
+
+	Ã¿¸ö½ø¶È½×¶ÎÔÚ¹¤³ÌµÄÓïÑÔÎÄ¼þÖÐ¶¼ÓÐÒ»¸ö×Ö·û´®À´½øÐÐÃèÊö£¬
+	Èç£º¡°ÕýÔÚ°²×°ÎÄ¼þ...¡±¡£ÕâÈÃ½ø¶ÈÎÄ±¾µÄ·­Òë±à³Ì¿ÉÄÜ£¨Á¬Í¬
+	ÓïÑÔÎÄ¼þÖÐµÄÆäËû±¾µØ»¯×Ö·û´®Ò»Æð)¡£
+]]
+
+-- Îªµ±Ç°½×¶ÎµÄ½ø¶ÈÐÅÏ¢»ñÈ¡ÊÊµ±µÄ×Ö·û´® ID...
+local strStringID;
+if(e_Stage == INSTALL_STAGE_PREPARING) then
+	strStringID = "MSG_PROG_PREPARING";
+elseif(e_Stage == INSTALL_STAGE_INSTALLING_FILES) then
+	strStringID = "MSG_PROG_INSTALLING_FILES";
+elseif(e_Stage == INSTALL_STAGE_CREATING_UNINSTALL) then
+	strStringID = "MSG_PROG_CREATING_UNINSTALL";
+elseif(e_Stage == INSTALL_STAGE_CREATING_SHORTCUTS) then
+	strStringID = "MSG_PROG_CREATING_SHORTCUTS";
+end
+
+-- ...²¢´ÓÓïÑÔÎÄ¼þÖÐ»ñÈ¡ÏàÓ¦µÄ×Ö·û´®
+local strStageMessage = SetupData.GetLocalizedString(strStringID);
+
+-- ¸üÐÂ½ø¶ÈÌáÊ¾£¬ÒÔÏÔÊ¾µ±Ç°½×¶Î
+DlgStaticText.SetProperties(CTRL_STATICTEXT_LABEL_01, {Text=strStageMessage});
+
+-- Èç¹ûµ±Ç°ÏîÄ¿ÊÇÒ»¸öÎÄ¼þÂ·¾¶£¬Ëü¶ÔÓÚÆÁÄ»À´Ëµ¿ÉÄÜÌ«³¤...
+-- ÏÂÒ»²½²Ù×÷½«Ëõ¶ÌÎÄ±¾Îª 72 ¸ö×Ö·û (Èç¹ûËüÖÁÉÙ°üº¬Ò»¸ö \)
+local strAbbreviatedItemText = String.AbbreviateFilePath(e_CurrentItemText, 72);
+
+-- ¸üÐÂ×´Ì¬ÎÄ±¾£¬ÒÔÏÔÊ¾µ±Ç°ÏîÄ¿ (Èç£ºÕýÔÚ°²×°µÄÎÄ¼þ)
+DlgStaticText.SetProperties(CTRL_STATICTEXT_LABEL_02, {Text=strAbbreviatedItemText});
+
+-- ¸üÐÂ½ø¶ÈÌõ
+DlgProgressBar.SetPos(CTRL_PROGRESS_BAR_01, e_StagePct);
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Cancel</Name>
+<Args/>
+<Script>-- ÕâÐ©²Ù×÷ÔÚµã»÷¡°È¡Ïû¡±°´Å¥Ê±Ö´ÐÐ¡£
+
+-- À´×Ô _SUF70_Global_Functions.lua:
+-- Ñ¯ÎÊÓÃ»§ÊÇ·ñÈ·¶¨ÒªÍË³ö
+if g_ConfirmSetupAbort() then
+	Application.Exit(EXIT_REASON_USER_ABORTED);
+end
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+</Events>
+<Controls>
+<Control>
+<Type>1</Type>
+<ID>102</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>78</TabOrder>
+<FTButton>1</FTButton>
+</Control>
+<Control>
+<Type>2</Type>
+<ID>203</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>1</TabOrder>
+<IsHeading>0</IsHeading>
+</Control>
+<Control>
+<Type>2</Type>
+<ID>211</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>2</TabOrder>
+<IsHeading>0</IsHeading>
+</Control>
+<Control>
+<Type>2</Type>
+<ID>212</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>3</TabOrder>
+<IsHeading>0</IsHeading>
+</Control>
+<Control>
+<Type>7</Type>
+<ID>900</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>4</TabOrder>
+<Style>0</Style>
+<Min>0</Min>
+<Max>100</Max>
+<XPStyleBars>1</XPStyleBars>
+</Control>
+<Control>
+<Type>2</Type>
+<ID>213</ID>
+<Visible>0</Visible>
+<Enabled>1</Enabled>
+<TabOrder>2</TabOrder>
+<IsHeading>0</IsHeading>
+</Control>
+<Control>
+<Type>2</Type>
+<ID>214</ID>
+<Visible>0</Visible>
+<Enabled>1</Enabled>
+<TabOrder>3</TabOrder>
+<IsHeading>0</IsHeading>
+</Control>
+<Control>
+<Type>7</Type>
+<ID>901</ID>
+<Visible>0</Visible>
+<Enabled>1</Enabled>
+<TabOrder>4</TabOrder>
+<Style>0</Style>
+<Min>0</Min>
+<Max>100</Max>
+<XPStyleBars>0</XPStyleBars>
+</Control>
+</Controls>
+<Languages>
+<SUF70Messages>
+<Language>
+<Name>Chinese (Traditional)</Name>
+<Default>0</Default>
+<Primary>4</Primary>
+<Secondary>
+<ID>1</ID>
+</Secondary>
+</Language>
+<Messages>
+<IDS_WINDOW_TITLE>%ProductName% ¦w¸Ëµ{¦¡</IDS_WINDOW_TITLE>
+<IDS_HEADER_TEXT>¥¿¦b¦w¸Ë %ProductName%</IDS_HEADER_TEXT>
+<IDS_SUBHEADER_TEXT>½Ðµy­Ô...</IDS_SUBHEADER_TEXT>
+<IDS_CTRL_BUTTON_CANCEL>&amp;¨ú®ø</IDS_CTRL_BUTTON_CANCEL>
+<IDS_CTRL_STATICTEXT_TOPINSTRUCTIONS/>
+<IDS_CTRL_STATICTEXT_LABEL_01/>
+<IDS_CTRL_STATICTEXT_LABEL_02/>
+<IDS_CTRL_PROGRESS_BAR_01/>
+<IDS_CTRL_STATICTEXT_LABEL_03>¶i«×¤G</IDS_CTRL_STATICTEXT_LABEL_03>
+<IDS_CTRL_STATICTEXT_LABEL_04>¥¿¦b°õ¦æ°Ê§@...</IDS_CTRL_STATICTEXT_LABEL_04>
+<IDS_CTRL_PROGRESS_BAR_02/>
+</Messages>
+</SUF70Messages>
+<SUF70Messages>
+<Language>
+<Name>Chinese (Simplified)</Name>
+<Default>1</Default>
+<Primary>4</Primary>
+<Secondary>
+<ID>2</ID>
+<ID>3</ID>
+<ID>4</ID>
+<ID>5</ID>
+</Secondary>
+</Language>
+<Messages>
+<IDS_WINDOW_TITLE> ³ÆÖØÏµÍ³ °²×°³ÌÐò</IDS_WINDOW_TITLE>
+<IDS_HEADER_TEXT> ÕýÔÚ°²×° ³ÆÖØÏµÍ³</IDS_HEADER_TEXT>
+<IDS_SUBHEADER_TEXT> ÇëÉÔºò...</IDS_SUBHEADER_TEXT>
+<IDS_CTRL_BUTTON_CANCEL>È¡Ïû(&amp;C)</IDS_CTRL_BUTTON_CANCEL>
+<IDS_CTRL_STATICTEXT_TOPINSTRUCTIONS/>
+<IDS_CTRL_STATICTEXT_LABEL_01/>
+<IDS_CTRL_STATICTEXT_LABEL_02/>
+<IDS_CTRL_PROGRESS_BAR_01/>
+<IDS_CTRL_STATICTEXT_LABEL_03>½ø³Ì¶þ</IDS_CTRL_STATICTEXT_LABEL_03>
+<IDS_CTRL_STATICTEXT_LABEL_04>ÕýÔÚÖ´ÐÐ¶¯×÷...</IDS_CTRL_STATICTEXT_LABEL_04>
+<IDS_CTRL_PROGRESS_BAR_02/>
+</Messages>
+</SUF70Messages>
+<SUF70Messages>
+<Language>
+<Name>English</Name>
+<Default>0</Default>
+<Primary>9</Primary>
+<Secondary>
+<ID>1</ID>
+<ID>2</ID>
+<ID>3</ID>
+<ID>4</ID>
+<ID>5</ID>
+<ID>6</ID>
+<ID>7</ID>
+<ID>8</ID>
+<ID>9</ID>
+<ID>10</ID>
+<ID>11</ID>
+<ID>12</ID>
+<ID>13</ID>
+</Secondary>
+</Language>
+<Messages>
+<IDS_WINDOW_TITLE>%ProductName% Setup</IDS_WINDOW_TITLE>
+<IDS_HEADER_TEXT>Installing %ProductName%</IDS_HEADER_TEXT>
+<IDS_SUBHEADER_TEXT>Please wait...</IDS_SUBHEADER_TEXT>
+<IDS_CTRL_BUTTON_CANCEL>&amp;Cancel</IDS_CTRL_BUTTON_CANCEL>
+<IDS_CTRL_STATICTEXT_TOPINSTRUCTIONS/>
+<IDS_CTRL_STATICTEXT_LABEL_01/>
+<IDS_CTRL_STATICTEXT_LABEL_02/>
+<IDS_CTRL_PROGRESS_BAR_01/>
+<IDS_CTRL_STATICTEXT_LABEL_03>Progress Two</IDS_CTRL_STATICTEXT_LABEL_03>
+<IDS_CTRL_STATICTEXT_LABEL_04>Performing Actions...</IDS_CTRL_STATICTEXT_LABEL_04>
+<IDS_CTRL_PROGRESS_BAR_02/>
+</Messages>
+</SUF70Messages>
+</Languages>
+</Screen>
+</Screens>
+</DuringInstScreenData>
+<AfterInstallingScreens>
+<Screen>
+<Type>150</Type>
+<Name>½áÊø°²×°2</Name>
+<BannerStyle>1</BannerStyle>
+<TemplateName>Check Boxes</TemplateName>
+<OverrideProjTheme>0</OverrideProjTheme>
+<StyleData>
+<CstClrs>0</CstClrs>
+<TBBG format="hex">ffffff</TBBG>
+<BDYBG format="hex">ece9d8</BDYBG>
+<FTBG format="hex">ece9d8</FTBG>
+<TBTXT format="hex">000000</TBTXT>
+<BDYTXT format="hex">000000</BDYTXT>
+<CBG format="hex">ffffff</CBG>
+<C3DFACE format="hex">ece9d8</C3DFACE>
+<C3DHLT format="hex">ece9d8</C3DHLT>
+<C3DLIT format="hex">ffffff</C3DLIT>
+<C3DSH format="hex">aca899</C3DSH>
+<CBTNTXT format="hex">000000</CBTNTXT>
+<CTEXT format="hex">000000</CTEXT>
+<CDISTXT format="hex">aca899</CDISTXT>
+<CPRGRS format="hex">316ac5</CPRGRS>
+<C3DSHDK format="hex">716f64</C3DSHDK>
+<TBIMG>111_X_63_keyboard.jpg</TBIMG>
+<SBIMG>166_X_312_keyboard.jpg</SBIMG>
+<BDIMG/>
+<BDFILL>0</BDFILL>
+<HDSEP>1</HDSEP>
+<FTSEP>1</FTSEP>
+<CstFnts>0</CstFnts>
+<Fonts>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>700</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>700</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-24</Height>
+<Weight>700</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>400</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>400</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+</Fonts>
+<CAOff>
+<TP>0</TP>
+<L>15</L>
+<T>15</T>
+<R>15</R>
+<B>15</B>
+</CAOff>
+<CAOff>
+<TP>1</TP>
+<L>15</L>
+<T>15</T>
+<R>15</R>
+<B>15</B>
+</CAOff>
+<CAOff>
+<TP>2</TP>
+<L>15</L>
+<T>15</T>
+<R>15</R>
+<B>15</B>
+</CAOff>
+<TBTXTX>10</TBTXTX>
+<TBTXTY>10</TBTXTY>
+<ScreenW>497</ScreenW>
+<ScreenH>362</ScreenH>
+</StyleData>
+<NumCheckBoxes>1</NumCheckBoxes>
+<Check0>0</Check0>
+<Cols>1</Cols>
+<Distribute>1</Distribute>
+<Events>
+<Event>
+<Name>On Preload</Name>
+<Args/>
+<Script>-- ÕâÐ©²Ù×÷ÔÚÆÁÄ»ÏÔÊ¾Ö®Ç°Ö´ÐÐ¡£
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Back</Name>
+<Args/>
+<Script>-- ÕâÐ©²Ù×÷ÔÚµã»÷¡°·µ»Ø¡±°´Å¥Ê±Ö´ÐÐ¡£
+
+-- ·µ»Øµ½ÉÏÒ»¸öÆÁÄ»
+Screen.Back();
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Next</Name>
+<Args/>
+<Script>-- ÕâÐ©²Ù×÷ÔÚµã»÷¡°ÏÂÒ»²½¡±°´Å¥Ê±Ö´ÐÐ¡£
+-- ÌáÊ¾£ºÄã¿ÉÒÔÔÚÕâÀïÌí¼ÓÑéÖ¤ÓÃ»§ÊäÈëÐÅÏ¢µÄ²Ù×÷
+
+-- ½øÈëÏÂÒ»¸öÆÁÄ»
+if (check01) then
+	File.Open(SessionVar.Expand("%AppFolder%\\weight.exe"), "", SW_SHOWNORMAL);
+end
+Screen.Next();
+
+
+
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Cancel</Name>
+<Args/>
+<Script>-- ÕâÐ©²Ù×÷ÔÚµã»÷¡°È¡Ïû¡±°´Å¥Ê±Ö´ÐÐ¡£
+
+-- À´×Ô _SUF70_Global_Functions.lua:
+-- Ñ¯ÎÊÓÃ»§ÊÇ·ñÈ·¶¨ÒªÍË³ö
+if g_ConfirmSetupAbort() then
+	Application.Exit(EXIT_REASON_USER_ABORTED);
+end
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Help</Name>
+<Args/>
+<Script>-- ÕâÐ©²Ù×÷ÔÚµã»÷¡°°ïÖú¡±°´Å¥Ê±Ö´ÐÐ¡£
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Ctrl Message</Name>
+<Args>number e_CtrlID, number e_MsgID, table e_Details</Args>
+<Script>-- ÕâÐ©²Ù×÷ÓÉÆÁÄ»ÉÏµÄ¿Ø¼þ´¥·¢¡£
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+</Events>
+<Controls>
+<Control>
+<Type>1</Type>
+<ID>103</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>75</TabOrder>
+<FTButton>1</FTButton>
+</Control>
+<Control>
+<Type>1</Type>
+<ID>101</ID>
+<Visible>1</Visible>
+<Enabled>0</Enabled>
+<TabOrder>76</TabOrder>
+<FTButton>1</FTButton>
+</Control>
+<Control>
+<Type>1</Type>
+<ID>100</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>-10</TabOrder>
+<FTButton>1</FTButton>
+</Control>
+<Control>
+<Type>1</Type>
+<ID>102</ID>
+<Visible>1</Visible>
+<Enabled>0</Enabled>
+<TabOrder>-9</TabOrder>
+<FTButton>1</FTButton>
+</Control>
+<Control>
+<Type>2</Type>
+<ID>203</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>0</TabOrder>
+<IsHeading>0</IsHeading>
+</Control>
+<Control>
+<Type>2</Type>
+<ID>204</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>33</TabOrder>
+<IsHeading>0</IsHeading>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1300</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>1</TabOrder>
+<Checked>1</Checked>
+<Variable>check01</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1301</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>2</TabOrder>
+<Checked>0</Checked>
+<Variable>check02</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1302</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>3</TabOrder>
+<Checked>0</Checked>
+<Variable>check03</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1303</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>4</TabOrder>
+<Checked>0</Checked>
+<Variable>check04</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1304</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>5</TabOrder>
+<Checked>0</Checked>
+<Variable>check05</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1305</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>6</TabOrder>
+<Checked>0</Checked>
+<Variable>check06</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1306</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>7</TabOrder>
+<Checked>0</Checked>
+<Variable>check07</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1307</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>8</TabOrder>
+<Checked>0</Checked>
+<Variable>check08</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1308</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>9</TabOrder>
+<Checked>0</Checked>
+<Variable>check09</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1309</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>10</TabOrder>
+<Checked>0</Checked>
+<Variable>check10</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1310</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>11</TabOrder>
+<Checked>0</Checked>
+<Variable>check11</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1311</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>12</TabOrder>
+<Checked>0</Checked>
+<Variable>check12</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1312</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>13</TabOrder>
+<Checked>0</Checked>
+<Variable>check13</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1313</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>14</TabOrder>
+<Checked>0</Checked>
+<Variable>check14</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1314</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>15</TabOrder>
+<Checked>0</Checked>
+<Variable>check15</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1315</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>16</TabOrder>
+<Checked>0</Checked>
+<Variable>check16</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1316</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>17</TabOrder>
+<Checked>0</Checked>
+<Variable>check17</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1317</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>18</TabOrder>
+<Checked>0</Checked>
+<Variable>check18</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1318</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>19</TabOrder>
+<Checked>0</Checked>
+<Variable>check19</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1319</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>20</TabOrder>
+<Checked>0</Checked>
+<Variable>check20</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1320</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>21</TabOrder>
+<Checked>0</Checked>
+<Variable>check21</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1321</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>22</TabOrder>
+<Checked>0</Checked>
+<Variable>check22</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1322</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>23</TabOrder>
+<Checked>0</Checked>
+<Variable>check23</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1323</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>24</TabOrder>
+<Checked>0</Checked>
+<Variable>check24</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1324</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>25</TabOrder>
+<Checked>0</Checked>
+<Variable>check25</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1325</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>26</TabOrder>
+<Checked>0</Checked>
+<Variable>check26</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1326</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>27</TabOrder>
+<Checked>0</Checked>
+<Variable>check27</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1327</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>28</TabOrder>
+<Checked>0</Checked>
+<Variable>check28</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1328</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>29</TabOrder>
+<Checked>0</Checked>
+<Variable>check29</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1329</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>30</TabOrder>
+<Checked>0</Checked>
+<Variable>check30</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1330</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>31</TabOrder>
+<Checked>0</Checked>
+<Variable>check31</Variable>
+</Control>
+<Control>
+<Type>10</Type>
+<ID>1331</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>32</TabOrder>
+<Checked>0</Checked>
+<Variable>check32</Variable>
+</Control>
+</Controls>
+<Languages>
+<SUF70Messages>
+<Language>
+<Name>Chinese (Traditional)</Name>
+<Default>0</Default>
+<Primary>4</Primary>
+<Secondary>
+<ID>1</ID>
+</Secondary>
+</Language>
+<Messages>
+<IDS_WINDOW_TITLE>%ProductName% ¦w¸Ëµ{¦¡</IDS_WINDOW_TITLE>
+<IDS_HEADER_TEXT>¿ï¶µ</IDS_HEADER_TEXT>
+<IDS_SUBHEADER_TEXT>¿ï¾Ü±z­nªº¶µ¥Ø¨Ã«ö¤U¤@¨BÄ~Äò</IDS_SUBHEADER_TEXT>
+<IDS_CTRL_BUTTON_NEXT>&amp;¤U¤@¨B &gt;</IDS_CTRL_BUTTON_NEXT>
+<IDS_CTRL_BUTTON_BACK>&lt; &amp;ªð¦^</IDS_CTRL_BUTTON_BACK>
+<IDS_CTRL_BUTTON_CANCEL>&amp;¨ú®ø</IDS_CTRL_BUTTON_CANCEL>
+<IDS_CTRL_BUTTON_HELP>&amp;À°§U</IDS_CTRL_BUTTON_HELP>
+<IDS_CTRL_STATICTEXT_TOPINSTRUCTIONS>½Ð¿ï¾Ü¤U¦C¶µ¥Ø:</IDS_CTRL_STATICTEXT_TOPINSTRUCTIONS>
+<IDS_CTRL_STATICTEXT_BOTTOMINSTRUCTIONS>ª`·N: ±z¥i½Æ¿ï±z·Q­nªº¶µ¥Ø
+</IDS_CTRL_STATICTEXT_BOTTOMINSTRUCTIONS>
+<IDS_CTRL_CHECK_BOX_01>¿ï¶µ 01</IDS_CTRL_CHECK_BOX_01>
+</Messages>
+</SUF70Messages>
+<SUF70Messages>
+<Language>
+<Name>Chinese (Simplified)</Name>
+<Default>1</Default>
+<Primary>4</Primary>
+<Secondary>
+<ID>2</ID>
+<ID>3</ID>
+<ID>4</ID>
+<ID>5</ID>
+</Secondary>
+</Language>
+<Messages>
+<IDS_WINDOW_TITLE> ³ÆÖØÏµÍ³ °²×°³ÌÐò</IDS_WINDOW_TITLE>
+<IDS_HEADER_TEXT> °²×°Íê³É</IDS_HEADER_TEXT>
+<IDS_SUBHEADER_TEXT/>
+<IDS_CTRL_BUTTON_NEXT>Íê³É(&amp;N) &gt;</IDS_CTRL_BUTTON_NEXT>
+<IDS_CTRL_BUTTON_BACK>&lt; ·µ»Ø(&amp;B)</IDS_CTRL_BUTTON_BACK>
+<IDS_CTRL_BUTTON_CANCEL>È¡Ïû(&amp;C)</IDS_CTRL_BUTTON_CANCEL>
+<IDS_CTRL_BUTTON_HELP>°ïÖú(&amp;H)</IDS_CTRL_BUTTON_HELP>
+<IDS_CTRL_STATICTEXT_TOPINSTRUCTIONS>
+
+
+³ÆÖØÏµÍ³ °²×°ÒÑÍê³É¡£
+
+
+¸ÐÐ»ÄúÑ¡Ôñ ³ÆÖØÏµÍ³£¡
+
+
+Çëµ¥»÷¡°Íê³É¡±ÍË³ö¸Ã°²×°³ÌÐò¡£
+
+
+
+</IDS_CTRL_STATICTEXT_TOPINSTRUCTIONS>
+<IDS_CTRL_STATICTEXT_BOTTOMINSTRUCTIONS/>
+<IDS_CTRL_CHECK_BOX_01>Á¢¼´ÔËÐÐ³ÌÐò</IDS_CTRL_CHECK_BOX_01>
+</Messages>
+</SUF70Messages>
+<SUF70Messages>
+<Language>
+<Name>English</Name>
+<Default>0</Default>
+<Primary>9</Primary>
+<Secondary>
+<ID>1</ID>
+<ID>2</ID>
+<ID>3</ID>
+<ID>4</ID>
+<ID>5</ID>
+<ID>6</ID>
+<ID>7</ID>
+<ID>8</ID>
+<ID>9</ID>
+<ID>10</ID>
+<ID>11</ID>
+<ID>12</ID>
+<ID>13</ID>
+</Secondary>
+</Language>
+<Messages>
+<IDS_WINDOW_TITLE>%ProductName% Setup</IDS_WINDOW_TITLE>
+<IDS_HEADER_TEXT>Options</IDS_HEADER_TEXT>
+<IDS_SUBHEADER_TEXT>Select the options you want and click Next to continue.</IDS_SUBHEADER_TEXT>
+<IDS_CTRL_BUTTON_NEXT>&amp;Next &gt;</IDS_CTRL_BUTTON_NEXT>
+<IDS_CTRL_BUTTON_BACK>&lt; &amp;Back</IDS_CTRL_BUTTON_BACK>
+<IDS_CTRL_BUTTON_CANCEL>&amp;Cancel</IDS_CTRL_BUTTON_CANCEL>
+<IDS_CTRL_BUTTON_HELP>&amp;Help</IDS_CTRL_BUTTON_HELP>
+<IDS_CTRL_STATICTEXT_TOPINSTRUCTIONS>Please select from the following options:</IDS_CTRL_STATICTEXT_TOPINSTRUCTIONS>
+<IDS_CTRL_STATICTEXT_BOTTOMINSTRUCTIONS>Note: You may select as many options as you want.
+</IDS_CTRL_STATICTEXT_BOTTOMINSTRUCTIONS>
+<IDS_CTRL_CHECK_BOX_01>Option 01</IDS_CTRL_CHECK_BOX_01>
+</Messages>
+</SUF70Messages>
+</Languages>
+</Screen>
+</AfterInstallingScreens>
+<Packages/>
+<SerialLists>
+<SerialListData>
+<Name>List 1</Name>
+<BuildConfigs>
+<Cfg>All</Cfg>
+</BuildConfigs>
+<Serials/>
+</SerialListData>
+</SerialLists>
+<UninstallData>
+<CreateUninstall>1</CreateUninstall>
+<CfgFile>uninstall.xml</CfgFile>
+<UninstallFilesFolder>%AppFolder%\Uninstall</UninstallFilesFolder>
+<UninstallEXELocation>%WindowsFolder%\%ProductName%\uninstall.exe</UninstallEXELocation>
+<AllowSilent>0</AllowSilent>
+<StartSilent>0</StartSilent>
+<ShowBGWindow>0</ShowBGWindow>
+<MainWindowSettings>
+<ShowBackGroundWindow>0</ShowBackGroundWindow>
+<WindowStyle>0</WindowStyle>
+<WindowAppearance>1</WindowAppearance>
+<SolidBackColor format="hex">008080</SolidBackColor>
+<GradientBackColor format="hex">b4c2e3</GradientBackColor>
+<GradientForeColor format="hex">5971b6</GradientForeColor>
+<ImageFile/>
+<UseCustomIcon>0</UseCustomIcon>
+<CustomIcon/>
+<HideTaskbarIcon>0</HideTaskbarIcon>
+<AlwaysOnTop>0</AlwaysOnTop>
+<Headline>%ProductName% Ð¶ÔØ</Headline>
+<HeadingFont>
+<FontData>
+<FontName>ËÎÌå</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-37</Height>
+<Weight>700</Weight>
+<Italic>1</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+</HeadingFont>
+<HeadlineTextColor format="hex">ffffff</HeadlineTextColor>
+<Headline3DColor format="hex">000000</Headline3DColor>
+<HeadlineAlign>0</HeadlineAlign>
+<Headline3d>1</Headline3d>
+<SubHeading>v%ProductVer%</SubHeading>
+<SubHeadingFont>
+<FontData>
+<FontName>ËÎÌå</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-18</Height>
+<Weight>700</Weight>
+<Italic>1</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+</SubHeadingFont>
+<SubHeadingTextColor format="hex">ffffff</SubHeadingTextColor>
+<SubHeading3DColor format="hex">000000</SubHeading3DColor>
+<SubHeadingAlign>0</SubHeadingAlign>
+<SubHeading3d>1</SubHeading3d>
+<Footer>%Copyright% %CompanyName%. ±£ÁôËùÓÐÈ¨Àû¡£%CompanyURL%</Footer>
+<FooterFont>
+<FontData>
+<FontName>ËÎÌå</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-16</Height>
+<Weight>400</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+</FooterFont>
+<FooterTextColor format="hex">ffffff</FooterTextColor>
+<Footer3DColor format="hex">000000</Footer3DColor>
+<FooterAlign>0</FooterAlign>
+<Footer3d>1</Footer3d>
+</MainWindowSettings>
+<OverwriteDatFile>1</OverwriteDatFile>
+<OverwriteCtrlPanel>1</OverwriteCtrlPanel>
+<OverwriteSC>1</OverwriteSC>
+<CreateCPEntry>1</CreateCPEntry>
+<RegKeyName>%ProductName%%ProductVer%</RegKeyName>
+<CPDesc> ³ÆÖØ¹ÜÀíÏµÍ³</CPDesc>
+<UseCustomCPIcon>0</UseCustomCPIcon>
+<CustCPIconFN/>
+<CustCPIconIndex>0</CustCPIconIndex>
+<CPSIPublisher>%CompanyName%</CPSIPublisher>
+<CPSIPublisherURL>%CompanyURL%</CPSIPublisherURL>
+<CPSIHelpContactName>%CompanyName% Ö§³Ö²¿ÃÅ</CPSIHelpContactName>
+<CPSIHelpURL>%CompanyURL%</CPSIHelpURL>
+<CPSIProductVer>%ProductVer%</CPSIProductVer>
+<CPSIRegOwner/>
+<CPSIRegCompany/>
+<CPSIUpdateInfoURL/>
+<CPSIReadmeLink/>
+<CPSIComments/>
+<CPSIInstallLocation>%AppFolder%</CPSIInstallLocation>
+<CPSIVersionMajor/>
+<CPSIVersionMinor/>
+<CreateAppFldSC>1</CreateAppFldSC>
+<AppFldSCDesc>Ð¶ÔØ ³ÆÖØ¹ÜÀíÏµÍ³</AppFldSCDesc>
+<SCComment>´ÓÄúµÄ¼ÆËã»úÖÐÒÆ³ý ³ÆÖØ¹ÜÀíÏµÍ³</SCComment>
+<UseCustomAppFldSCIcon>0</UseCustomAppFldSCIcon>
+<AppFldCustomIconFN/>
+<AppFolderSCIconIndex>0</AppFolderSCIconIndex>
+<LFCreate>1</LFCreate>
+<LFFilename>%WindowsFolder%\%ProductName% Uninstall Log.txt</LFFilename>
+<LFCmdLineOverride>0</LFCmdLineOverride>
+<LFWriteMode>0</LFWriteMode>
+<LFActionDetailLevel>1</LFActionDetailLevel>
+<BeforeScreens>
+<Screen>
+<Type>100</Type>
+<Name>¿ªÊ¼Ð¶ÔØ</Name>
+<BannerStyle>1</BannerStyle>
+<TemplateName>Welcome to Uninstall</TemplateName>
+<OverrideProjTheme>0</OverrideProjTheme>
+<StyleData>
+<CstClrs>0</CstClrs>
+<TBBG format="hex">ffffff</TBBG>
+<BDYBG format="hex">ece9d8</BDYBG>
+<FTBG format="hex">ece9d8</FTBG>
+<TBTXT format="hex">000000</TBTXT>
+<BDYTXT format="hex">000000</BDYTXT>
+<CBG format="hex">ffffff</CBG>
+<C3DFACE format="hex">ece9d8</C3DFACE>
+<C3DHLT format="hex">ece9d8</C3DHLT>
+<C3DLIT format="hex">ffffff</C3DLIT>
+<C3DSH format="hex">aca899</C3DSH>
+<CBTNTXT format="hex">000000</CBTNTXT>
+<CTEXT format="hex">000000</CTEXT>
+<CDISTXT format="hex">aca899</CDISTXT>
+<CPRGRS format="hex">316ac5</CPRGRS>
+<C3DSHDK format="hex">716f64</C3DSHDK>
+<TBIMG>111_X_63_keyboard.jpg</TBIMG>
+<SBIMG>166_X_312_keyboard.jpg</SBIMG>
+<BDIMG/>
+<BDFILL>0</BDFILL>
+<HDSEP>1</HDSEP>
+<FTSEP>1</FTSEP>
+<CstFnts>0</CstFnts>
+<Fonts>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>700</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>700</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-24</Height>
+<Weight>700</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>400</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>400</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+</Fonts>
+<CAOff>
+<TP>0</TP>
+<L>15</L>
+<T>15</T>
+<R>15</R>
+<B>15</B>
+</CAOff>
+<CAOff>
+<TP>1</TP>
+<L>15</L>
+<T>15</T>
+<R>15</R>
+<B>15</B>
+</CAOff>
+<CAOff>
+<TP>2</TP>
+<L>15</L>
+<T>15</T>
+<R>15</R>
+<B>15</B>
+</CAOff>
+<TBTXTX>10</TBTXTX>
+<TBTXTY>10</TBTXTY>
+<ScreenW>497</ScreenW>
+<ScreenH>362</ScreenH>
+</StyleData>
+<Events>
+<Event>
+<Name>On Preload</Name>
+<Args/>
+<Script>-- ÕâÐ©²Ù×÷ÔÚÆÁÄ»ÏÔÊ¾Ö®Ç°Ö´ÐÐ¡£
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Back</Name>
+<Args/>
+<Script>-- ÕâÐ©²Ù×÷ÔÚµã»÷¡°·µ»Ø¡±°´Å¥Ê±Ö´ÐÐ¡£
+
+-- ·µ»Øµ½ÉÏÒ»¸öÆÁÄ»
+Screen.Back();
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Next</Name>
+<Args/>
+<Script>-- ÕâÐ©²Ù×÷ÔÚµã»÷¡°ÏÂÒ»²½¡±°´Å¥Ê±Ö´ÐÐ¡£
+
+-- ½øÈëÏÂÒ»¸öÆÁÄ»
+Screen.Next();
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Cancel</Name>
+<Args/>
+<Script>-- ÕâÐ©²Ù×÷ÔÚµã»÷¡°È¡Ïû¡±°´Å¥Ê±Ö´ÐÐ¡£
+
+-- À´×Ô _SUF70_Global_Functions.lua:
+-- Ñ¯ÎÊÓÃ»§ÊÇ·ñÈ·¶¨ÒªÍË³ö
+if g_ConfirmSetupAbort() then
+	Application.Exit(EXIT_REASON_USER_ABORTED);
+end
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Help</Name>
+<Args/>
+<Script>-- ÕâÐ©²Ù×÷ÔÚµã»÷¡°°ïÖú¡±°´Å¥Ê±Ö´ÐÐ¡£
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Ctrl Message</Name>
+<Args>number e_CtrlID, number e_MsgID, table e_Details</Args>
+<Script>-- ÕâÐ©²Ù×÷ÓÉÆÁÄ»ÉÏµÄ¿Ø¼þ´¥·¢¡£
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+</Events>
+<Controls>
+<Control>
+<Type>1</Type>
+<ID>103</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>75</TabOrder>
+<FTButton>1</FTButton>
+</Control>
+<Control>
+<Type>1</Type>
+<ID>101</ID>
+<Visible>1</Visible>
+<Enabled>0</Enabled>
+<TabOrder>76</TabOrder>
+<FTButton>1</FTButton>
+</Control>
+<Control>
+<Type>1</Type>
+<ID>100</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>-10</TabOrder>
+<FTButton>1</FTButton>
+</Control>
+<Control>
+<Type>1</Type>
+<ID>102</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>-9</TabOrder>
+<FTButton>1</FTButton>
+</Control>
+<Control>
+<Type>2</Type>
+<ID>200</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>1</TabOrder>
+<IsHeading>0</IsHeading>
+</Control>
+<Control>
+<Type>2</Type>
+<ID>300</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>0</TabOrder>
+<IsHeading>1</IsHeading>
+</Control>
+</Controls>
+<Languages>
+<SUF70Messages>
+<Language>
+<Name>Chinese (Traditional)</Name>
+<Default>0</Default>
+<Primary>4</Primary>
+<Secondary>
+<ID>1</ID>
+</Secondary>
+</Language>
+<Messages>
+<IDS_WINDOW_TITLE>%ProductName% ¤Ï¦w¸Ëµ{¦¡</IDS_WINDOW_TITLE>
+<IDS_HEADER_TEXT>Åwªï¨Ï¥Î</IDS_HEADER_TEXT>
+<IDS_SUBHEADER_TEXT>Åwªï¨Ï¥Î %ProductName% %ProductVer% ¤Ï¦w¸ËºëÆF</IDS_SUBHEADER_TEXT>
+<IDS_CTRL_BUTTON_NEXT>&amp;¤U¤@¨B &gt;</IDS_CTRL_BUTTON_NEXT>
+<IDS_CTRL_BUTTON_BACK>&lt; &amp;ªð¦^</IDS_CTRL_BUTTON_BACK>
+<IDS_CTRL_BUTTON_CANCEL>&amp;¨ú®ø</IDS_CTRL_BUTTON_CANCEL>
+<IDS_CTRL_BUTTON_HELP>&amp;À°§U</IDS_CTRL_BUTTON_HELP>
+<IDS_CTRL_STATICTEXT_BODY>³o­ÓºëÆF±N·|°õ¦æ %ProductName% %ProductVer% ªº¤Ï¦w¸Ë
+
+¦pªG %ProductName% ¥¿¦b°õ¦æ, ½Ð¥ýÃö³¬¥¦¡C
+
+§_±Ñ, «ö¤U¤@¨BÄ~Äò
+</IDS_CTRL_STATICTEXT_BODY>
+<IDS_CTRL_HEADINGTEXT_BODY>¤Ï¦w¸Ë %ProductName%</IDS_CTRL_HEADINGTEXT_BODY>
+</Messages>
+</SUF70Messages>
+<SUF70Messages>
+<Language>
+<Name>Chinese (Simplified)</Name>
+<Default>1</Default>
+<Primary>4</Primary>
+<Secondary>
+<ID>2</ID>
+<ID>3</ID>
+<ID>4</ID>
+<ID>5</ID>
+</Secondary>
+</Language>
+<Messages>
+<IDS_WINDOW_TITLE> ³ÆÖØ¹ÜÀíÏµÍ³ Ð¶ÔØ³ÌÐò</IDS_WINDOW_TITLE>
+<IDS_HEADER_TEXT>»¶Ó­</IDS_HEADER_TEXT>
+<IDS_SUBHEADER_TEXT>»¶Ó­Ê¹ÓÃ %ProductName% %ProductVer% Ð¶ÔØ³ÌÐò</IDS_SUBHEADER_TEXT>
+<IDS_CTRL_BUTTON_NEXT>ÏÂÒ»²½(&amp;N) &gt;</IDS_CTRL_BUTTON_NEXT>
+<IDS_CTRL_BUTTON_BACK>&lt; ·µ»Ø(&amp;B)</IDS_CTRL_BUTTON_BACK>
+<IDS_CTRL_BUTTON_CANCEL>È¡Ïû(&amp;C)</IDS_CTRL_BUTTON_CANCEL>
+<IDS_CTRL_BUTTON_HELP>°ïÖú(&amp;H)</IDS_CTRL_BUTTON_HELP>
+<IDS_CTRL_STATICTEXT_BODY>
+¸Ã³ÌÐò½«Ð¶ÔØ ³ÆÖØ¹ÜÀíÏµÍ³
+
+Èç¹û ³ÆÖØ¹ÜÀíÏµÍ³ µ±Ç°ÕýÔÚÔËÐÐ£¬¼ÌÐøÐ¶ÔØÖ®Ç°Çë½«Æä¹Ø±Õ¡£
+
+·ñÔò£¬Çëµ¥»÷¡°ÏÂÒ»²½¡±¼ÌÐø¡£
+</IDS_CTRL_STATICTEXT_BODY>
+<IDS_CTRL_HEADINGTEXT_BODY>Ð¶ÔØ ³ÆÖØ¹ÜÀíÏµÍ³</IDS_CTRL_HEADINGTEXT_BODY>
+</Messages>
+</SUF70Messages>
+<SUF70Messages>
+<Language>
+<Name>English</Name>
+<Default>0</Default>
+<Primary>9</Primary>
+<Secondary>
+<ID>1</ID>
+<ID>2</ID>
+<ID>3</ID>
+<ID>4</ID>
+<ID>5</ID>
+<ID>6</ID>
+<ID>7</ID>
+<ID>8</ID>
+<ID>9</ID>
+<ID>10</ID>
+<ID>11</ID>
+<ID>12</ID>
+<ID>13</ID>
+</Secondary>
+</Language>
+<Messages>
+<IDS_WINDOW_TITLE>%ProductName% Uninstaller</IDS_WINDOW_TITLE>
+<IDS_HEADER_TEXT>Welcome</IDS_HEADER_TEXT>
+<IDS_SUBHEADER_TEXT>Welcome to the uninstaller for %ProductName% %ProductVer%</IDS_SUBHEADER_TEXT>
+<IDS_CTRL_BUTTON_NEXT>&amp;Next &gt;</IDS_CTRL_BUTTON_NEXT>
+<IDS_CTRL_BUTTON_BACK>&lt; &amp;Back</IDS_CTRL_BUTTON_BACK>
+<IDS_CTRL_BUTTON_CANCEL>&amp;Cancel</IDS_CTRL_BUTTON_CANCEL>
+<IDS_CTRL_BUTTON_HELP>&amp;Help</IDS_CTRL_BUTTON_HELP>
+<IDS_CTRL_STATICTEXT_BODY>This program will uninstall %ProductName% %ProductVer%.
+
+If %ProductName% is currently running, please close it before proceeding with the uninstallation.
+
+Otherwise, click Next to continue.
+</IDS_CTRL_STATICTEXT_BODY>
+<IDS_CTRL_HEADINGTEXT_BODY>Uninstall %ProductName%</IDS_CTRL_HEADINGTEXT_BODY>
+</Messages>
+</SUF70Messages>
+</Languages>
+</Screen>
+</BeforeScreens>
+<DuringInstScreenData>
+<ShowProgress>1</ShowProgress>
+<Screens>
+<Screen>
+<Type>130</Type>
+<Name>Ò»¸ö½ø¶ÈÌõ (Ð¶ÔØÆÚ¼ä)</Name>
+<BannerStyle>2</BannerStyle>
+<TemplateName>One Progress Bar (While Uninstalling)</TemplateName>
+<OverrideProjTheme>0</OverrideProjTheme>
+<StyleData>
+<CstClrs>0</CstClrs>
+<TBBG format="hex">ffffff</TBBG>
+<BDYBG format="hex">ece9d8</BDYBG>
+<FTBG format="hex">ece9d8</FTBG>
+<TBTXT format="hex">000000</TBTXT>
+<BDYTXT format="hex">000000</BDYTXT>
+<CBG format="hex">ffffff</CBG>
+<C3DFACE format="hex">ece9d8</C3DFACE>
+<C3DHLT format="hex">ece9d8</C3DHLT>
+<C3DLIT format="hex">ffffff</C3DLIT>
+<C3DSH format="hex">aca899</C3DSH>
+<CBTNTXT format="hex">000000</CBTNTXT>
+<CTEXT format="hex">000000</CTEXT>
+<CDISTXT format="hex">aca899</CDISTXT>
+<CPRGRS format="hex">316ac5</CPRGRS>
+<C3DSHDK format="hex">716f64</C3DSHDK>
+<TBIMG>111_X_63_keyboard.jpg</TBIMG>
+<SBIMG>166_X_312_keyboard.jpg</SBIMG>
+<BDIMG/>
+<BDFILL>0</BDFILL>
+<HDSEP>1</HDSEP>
+<FTSEP>1</FTSEP>
+<CstFnts>0</CstFnts>
+<Fonts>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>700</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>700</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-24</Height>
+<Weight>700</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>400</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>400</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+</Fonts>
+<CAOff>
+<TP>0</TP>
+<L>15</L>
+<T>15</T>
+<R>15</R>
+<B>15</B>
+</CAOff>
+<CAOff>
+<TP>1</TP>
+<L>15</L>
+<T>15</T>
+<R>15</R>
+<B>15</B>
+</CAOff>
+<CAOff>
+<TP>2</TP>
+<L>15</L>
+<T>15</T>
+<R>15</R>
+<B>15</B>
+</CAOff>
+<TBTXTX>10</TBTXTX>
+<TBTXTY>10</TBTXTY>
+<ScreenW>497</ScreenW>
+<ScreenH>362</ScreenH>
+</StyleData>
+<IsWhileInstallingMode>1</IsWhileInstallingMode>
+<Events>
+<Event>
+<Name>On Preload</Name>
+<Args/>
+<Script>-- ÕâÐ©²Ù×÷ÔÚÆÁÄ»ÏÔÊ¾Ö®Ç°Ö´ÐÐ¡£
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Progress</Name>
+<Args>number e_Stage, string e_CurrentItemText, number e_CurrentItemPct, number e_StagePct</Args>
+<Script>-- ÕâÐ©²Ù×÷ÔÚÐ¶ÔØÎÄ¼þÊ±Ö´ÐÐ¡£
+
+--[[
+×¢Òâ£º
+	Ð¶ÔØ½ø¶È·ÖÎª 2 ¸ö½ø¶È½×¶Î£º
+
+	1. ÕýÔÚÒÆ³ýÎÄ¼þ
+	2. ÕýÔÚÒÆ³ý¿ì½Ý·½Ê½
+
+	Ã¿¸ö½ø¶È½×¶ÎÔÚ¹¤³ÌµÄÓïÑÔÎÄ¼þÖÐ¶¼ÓÐÒ»¸ö×Ö·û´®À´½øÐÐÃèÊö£¬
+	Èç£º¡°ÕýÔÚÒÆ³ýÎÄ¼þ...¡±¡£ÕâÈÃ½ø¶ÈÎÄ±¾µÄ·­Òë±à³Ì¿ÉÄÜ£¨Á¬Í¬
+	ÓïÑÔÎÄ¼þÖÐµÄÆäËû±¾µØ»¯×Ö·û´®Ò»Æð)¡£
+]]
+
+-- Îªµ±Ç°½×¶ÎµÄ½ø¶ÈÐÅÏ¢»ñÈ¡ÊÊµ±µÄ×Ö·û´® ID...
+local strStringID;
+if(e_Stage == UNINSTALL_STAGE_REMOVING_FILES) then
+	strStringID = "MSG_PROG_UNINSTALL_REMOVING_FILES";
+elseif(e_Stage == UNINSTALL_STAGE_REMOVING_SHORTCUTS) then
+	strStringID = "MSG_PROG_UNINSTALL_REMOVING_SHORTCUTS";
+end
+
+-- ...²¢´ÓÓïÑÔÎÄ¼þÖÐ»ñÈ¡ÏàÓ¦µÄ×Ö·û´®
+local strStageMessage = SetupData.GetLocalizedString(strStringID);
+
+-- ¸üÐÂ½ø¶ÈÌáÊ¾£¬ÒÔÏÔÊ¾µ±Ç°½×¶Î
+DlgStaticText.SetProperties(CTRL_STATICTEXT_LABEL_01, {Text=strStageMessage});
+
+-- Èç¹ûµ±Ç°ÏîÄ¿ÊÇÒ»¸öÎÄ¼þÂ·¾¶£¬Ëü¶ÔÓÚÆÁÄ»À´Ëµ¿ÉÄÜÌ«³¤...
+-- ÏÂÒ»²½²Ù×÷½«Ëõ¶ÌÎÄ±¾Îª 72 ¸ö×Ö·û (Èç¹ûËüÖÁÉÙ°üº¬Ò»¸ö \)
+local strAbbreviatedItemText = String.AbbreviateFilePath(e_CurrentItemText, 72);
+
+-- ¸üÐÂ×´Ì¬ÎÄ±¾£¬ÒÔÏÔÊ¾µ±Ç°ÏîÄ¿ (Èç£ºÕýÔÚÒÆ³ýµÄÎÄ¼þ)
+DlgStaticText.SetProperties(CTRL_STATICTEXT_LABEL_02, {Text=strAbbreviatedItemText});
+
+-- ¸üÐÂ½ø¶ÈÌõ
+DlgProgressBar.SetPos(CTRL_PROGRESS_BAR_01, e_StagePct);
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Cancel</Name>
+<Args/>
+<Script>-- ÕâÐ©²Ù×÷ÔÚµã»÷¡°È¡Ïû¡±°´Å¥Ê±Ö´ÐÐ¡£
+
+-- À´×Ô _SUF70_Global_Functions.lua:
+-- Ñ¯ÎÊÓÃ»§ÊÇ·ñÈ·¶¨ÒªÍË³ö
+if g_ConfirmSetupAbort() then
+	Application.Exit(EXIT_REASON_USER_ABORTED);
+end
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+</Events>
+<Controls>
+<Control>
+<Type>1</Type>
+<ID>102</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>78</TabOrder>
+<FTButton>1</FTButton>
+</Control>
+<Control>
+<Type>2</Type>
+<ID>203</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>1</TabOrder>
+<IsHeading>0</IsHeading>
+</Control>
+<Control>
+<Type>2</Type>
+<ID>211</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>2</TabOrder>
+<IsHeading>0</IsHeading>
+</Control>
+<Control>
+<Type>2</Type>
+<ID>212</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>3</TabOrder>
+<IsHeading>0</IsHeading>
+</Control>
+<Control>
+<Type>7</Type>
+<ID>900</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>4</TabOrder>
+<Style>0</Style>
+<Min>0</Min>
+<Max>100</Max>
+<XPStyleBars>1</XPStyleBars>
+</Control>
+<Control>
+<Type>2</Type>
+<ID>213</ID>
+<Visible>0</Visible>
+<Enabled>1</Enabled>
+<TabOrder>2</TabOrder>
+<IsHeading>0</IsHeading>
+</Control>
+<Control>
+<Type>2</Type>
+<ID>214</ID>
+<Visible>0</Visible>
+<Enabled>1</Enabled>
+<TabOrder>3</TabOrder>
+<IsHeading>0</IsHeading>
+</Control>
+<Control>
+<Type>7</Type>
+<ID>901</ID>
+<Visible>0</Visible>
+<Enabled>1</Enabled>
+<TabOrder>4</TabOrder>
+<Style>0</Style>
+<Min>0</Min>
+<Max>100</Max>
+<XPStyleBars>0</XPStyleBars>
+</Control>
+</Controls>
+<Languages>
+<SUF70Messages>
+<Language>
+<Name>Chinese (Traditional)</Name>
+<Default>0</Default>
+<Primary>4</Primary>
+<Secondary>
+<ID>1</ID>
+</Secondary>
+</Language>
+<Messages>
+<IDS_WINDOW_TITLE>%ProductName% ¤Ï¦w¸Ëµ{¦¡</IDS_WINDOW_TITLE>
+<IDS_HEADER_TEXT>¥¿¦b²¾°£ %ProductName%</IDS_HEADER_TEXT>
+<IDS_SUBHEADER_TEXT>½Ðµy­Ô...</IDS_SUBHEADER_TEXT>
+<IDS_CTRL_BUTTON_CANCEL>&amp;¨ú®ø</IDS_CTRL_BUTTON_CANCEL>
+<IDS_CTRL_STATICTEXT_TOPINSTRUCTIONS/>
+<IDS_CTRL_STATICTEXT_LABEL_01> </IDS_CTRL_STATICTEXT_LABEL_01>
+<IDS_CTRL_STATICTEXT_LABEL_02> </IDS_CTRL_STATICTEXT_LABEL_02>
+<IDS_CTRL_PROGRESS_BAR_01/>
+<IDS_CTRL_STATICTEXT_LABEL_03>¶i«×¦C¤G</IDS_CTRL_STATICTEXT_LABEL_03>
+<IDS_CTRL_STATICTEXT_LABEL_04>¥¿¦b°õ¦æ°Ê§@...</IDS_CTRL_STATICTEXT_LABEL_04>
+<IDS_CTRL_PROGRESS_BAR_02/>
+</Messages>
+</SUF70Messages>
+<SUF70Messages>
+<Language>
+<Name>Chinese (Simplified)</Name>
+<Default>1</Default>
+<Primary>4</Primary>
+<Secondary>
+<ID>2</ID>
+<ID>3</ID>
+<ID>4</ID>
+<ID>5</ID>
+</Secondary>
+</Language>
+<Messages>
+<IDS_WINDOW_TITLE> ³ÆÖØ¹ÜÀíÏµÍ³ Ð¶ÔØ³ÌÐò</IDS_WINDOW_TITLE>
+<IDS_HEADER_TEXT> ÕýÔÚÒÆ³ý ³ÆÖØ¹ÜÀíÏµÍ³</IDS_HEADER_TEXT>
+<IDS_SUBHEADER_TEXT> ÇëÉÔºò...</IDS_SUBHEADER_TEXT>
+<IDS_CTRL_BUTTON_CANCEL>È¡Ïû(&amp;C)</IDS_CTRL_BUTTON_CANCEL>
+<IDS_CTRL_STATICTEXT_TOPINSTRUCTIONS/>
+<IDS_CTRL_STATICTEXT_LABEL_01> </IDS_CTRL_STATICTEXT_LABEL_01>
+<IDS_CTRL_STATICTEXT_LABEL_02> </IDS_CTRL_STATICTEXT_LABEL_02>
+<IDS_CTRL_PROGRESS_BAR_01/>
+<IDS_CTRL_STATICTEXT_LABEL_03>½ø³Ì¶þ</IDS_CTRL_STATICTEXT_LABEL_03>
+<IDS_CTRL_STATICTEXT_LABEL_04>ÕýÔÚÖ´ÐÐ¶¯×÷...</IDS_CTRL_STATICTEXT_LABEL_04>
+<IDS_CTRL_PROGRESS_BAR_02/>
+</Messages>
+</SUF70Messages>
+<SUF70Messages>
+<Language>
+<Name>English</Name>
+<Default>0</Default>
+<Primary>9</Primary>
+<Secondary>
+<ID>1</ID>
+<ID>2</ID>
+<ID>3</ID>
+<ID>4</ID>
+<ID>5</ID>
+<ID>6</ID>
+<ID>7</ID>
+<ID>8</ID>
+<ID>9</ID>
+<ID>10</ID>
+<ID>11</ID>
+<ID>12</ID>
+<ID>13</ID>
+</Secondary>
+</Language>
+<Messages>
+<IDS_WINDOW_TITLE>%ProductName% Uninstaller</IDS_WINDOW_TITLE>
+<IDS_HEADER_TEXT>Removing %ProductName%</IDS_HEADER_TEXT>
+<IDS_SUBHEADER_TEXT>Please wait...</IDS_SUBHEADER_TEXT>
+<IDS_CTRL_BUTTON_CANCEL>&amp;Cancel</IDS_CTRL_BUTTON_CANCEL>
+<IDS_CTRL_STATICTEXT_TOPINSTRUCTIONS/>
+<IDS_CTRL_STATICTEXT_LABEL_01> </IDS_CTRL_STATICTEXT_LABEL_01>
+<IDS_CTRL_STATICTEXT_LABEL_02> </IDS_CTRL_STATICTEXT_LABEL_02>
+<IDS_CTRL_PROGRESS_BAR_01/>
+<IDS_CTRL_STATICTEXT_LABEL_03>Progress Two</IDS_CTRL_STATICTEXT_LABEL_03>
+<IDS_CTRL_STATICTEXT_LABEL_04>Performing Actions...</IDS_CTRL_STATICTEXT_LABEL_04>
+<IDS_CTRL_PROGRESS_BAR_02/>
+</Messages>
+</SUF70Messages>
+</Languages>
+</Screen>
+</Screens>
+</DuringInstScreenData>
+<AfterScreens>
+<Screen>
+<Type>100</Type>
+<Name>½áÊøÐ¶ÔØ</Name>
+<BannerStyle>1</BannerStyle>
+<TemplateName>Finished Uninstall</TemplateName>
+<OverrideProjTheme>0</OverrideProjTheme>
+<StyleData>
+<CstClrs>0</CstClrs>
+<TBBG format="hex">ffffff</TBBG>
+<BDYBG format="hex">ece9d8</BDYBG>
+<FTBG format="hex">ece9d8</FTBG>
+<TBTXT format="hex">000000</TBTXT>
+<BDYTXT format="hex">000000</BDYTXT>
+<CBG format="hex">ffffff</CBG>
+<C3DFACE format="hex">ece9d8</C3DFACE>
+<C3DHLT format="hex">ece9d8</C3DHLT>
+<C3DLIT format="hex">ffffff</C3DLIT>
+<C3DSH format="hex">aca899</C3DSH>
+<CBTNTXT format="hex">000000</CBTNTXT>
+<CTEXT format="hex">000000</CTEXT>
+<CDISTXT format="hex">aca899</CDISTXT>
+<CPRGRS format="hex">316ac5</CPRGRS>
+<C3DSHDK format="hex">716f64</C3DSHDK>
+<TBIMG>111_X_63_keyboard.jpg</TBIMG>
+<SBIMG>166_X_312_keyboard.jpg</SBIMG>
+<BDIMG/>
+<BDFILL>0</BDFILL>
+<HDSEP>1</HDSEP>
+<FTSEP>1</FTSEP>
+<CstFnts>0</CstFnts>
+<Fonts>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>700</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>700</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-24</Height>
+<Weight>700</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>400</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+<FontData>
+<FontName>Arial</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-13</Height>
+<Weight>400</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+</Fonts>
+<CAOff>
+<TP>0</TP>
+<L>15</L>
+<T>15</T>
+<R>15</R>
+<B>15</B>
+</CAOff>
+<CAOff>
+<TP>1</TP>
+<L>15</L>
+<T>15</T>
+<R>15</R>
+<B>15</B>
+</CAOff>
+<CAOff>
+<TP>2</TP>
+<L>15</L>
+<T>15</T>
+<R>15</R>
+<B>15</B>
+</CAOff>
+<TBTXTX>10</TBTXTX>
+<TBTXTY>10</TBTXTY>
+<ScreenW>497</ScreenW>
+<ScreenH>362</ScreenH>
+</StyleData>
+<Events>
+<Event>
+<Name>On Preload</Name>
+<Args/>
+<Script>-- ÕâÐ©²Ù×÷ÔÚÆÁÄ»ÏÔÊ¾Ö®Ç°Ö´ÐÐ¡£
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Back</Name>
+<Args/>
+<Script>-- ÕâÐ©²Ù×÷ÔÚµã»÷¡°·µ»Ø¡±°´Å¥Ê±Ö´ÐÐ¡£
+
+-- ·µ»Øµ½ÉÏÒ»¸öÆÁÄ»
+Screen.Back();
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Next</Name>
+<Args/>
+<Script>-- ÕâÐ©²Ù×÷ÔÚµã»÷¡°ÏÂÒ»²½¡±°´Å¥Ê±Ö´ÐÐ¡£
+
+-- ½øÈëÏÂÒ»¸öÆÁÄ»
+Screen.Next();
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Cancel</Name>
+<Args/>
+<Script>-- ÕâÐ©²Ù×÷ÔÚµã»÷¡°È¡Ïû¡±°´Å¥Ê±Ö´ÐÐ¡£
+
+-- À´×Ô _SUF70_Global_Functions.lua:
+-- Ñ¯ÎÊÓÃ»§ÊÇ·ñÈ·¶¨ÒªÍË³ö
+if g_ConfirmSetupAbort() then
+	Application.Exit(EXIT_REASON_USER_ABORTED);
+end
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Help</Name>
+<Args/>
+<Script>-- ÕâÐ©²Ù×÷ÔÚµã»÷¡°°ïÖú¡±°´Å¥Ê±Ö´ÐÐ¡£
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Ctrl Message</Name>
+<Args>number e_CtrlID, number e_MsgID, table e_Details</Args>
+<Script>-- ÕâÐ©²Ù×÷ÓÉÆÁÄ»ÉÏµÄ¿Ø¼þ´¥·¢¡£
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+</Events>
+<Controls>
+<Control>
+<Type>1</Type>
+<ID>103</ID>
+<Visible>0</Visible>
+<Enabled>0</Enabled>
+<TabOrder>75</TabOrder>
+<FTButton>1</FTButton>
+</Control>
+<Control>
+<Type>1</Type>
+<ID>101</ID>
+<Visible>1</Visible>
+<Enabled>0</Enabled>
+<TabOrder>76</TabOrder>
+<FTButton>1</FTButton>
+</Control>
+<Control>
+<Type>1</Type>
+<ID>100</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>-10</TabOrder>
+<FTButton>1</FTButton>
+</Control>
+<Control>
+<Type>1</Type>
+<ID>102</ID>
+<Visible>1</Visible>
+<Enabled>0</Enabled>
+<TabOrder>-9</TabOrder>
+<FTButton>1</FTButton>
+</Control>
+<Control>
+<Type>2</Type>
+<ID>200</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>0</TabOrder>
+<IsHeading>0</IsHeading>
+</Control>
+<Control>
+<Type>2</Type>
+<ID>300</ID>
+<Visible>1</Visible>
+<Enabled>1</Enabled>
+<TabOrder>1</TabOrder>
+<IsHeading>1</IsHeading>
+</Control>
+</Controls>
+<Languages>
+<SUF70Messages>
+<Language>
+<Name>Chinese (Traditional)</Name>
+<Default>0</Default>
+<Primary>4</Primary>
+<Secondary>
+<ID>1</ID>
+</Secondary>
+</Language>
+<Messages>
+<IDS_WINDOW_TITLE>%ProductName% ¤Ï¦w¸ËºëÆF</IDS_WINDOW_TITLE>
+<IDS_HEADER_TEXT>¤Ï¦w¸Ë§¹¦¨</IDS_HEADER_TEXT>
+<IDS_SUBHEADER_TEXT>©Ò¦³ªº¤Ï¦w¸Ëµ{¦¡¤w¸g§¹¦¨</IDS_SUBHEADER_TEXT>
+<IDS_CTRL_BUTTON_NEXT>&amp;§¹¦¨</IDS_CTRL_BUTTON_NEXT>
+<IDS_CTRL_BUTTON_BACK>&lt; &amp;ªð¦^</IDS_CTRL_BUTTON_BACK>
+<IDS_CTRL_BUTTON_CANCEL>&amp;¨ú®ø</IDS_CTRL_BUTTON_CANCEL>
+<IDS_CTRL_BUTTON_HELP>&amp;À°§U</IDS_CTRL_BUTTON_HELP>
+<IDS_CTRL_STATICTEXT_BODY>%ProductName% %ProductVer% ¤w¸g¤Ï¦w¸Ë¤F
+
+½ÐÂI¿ï§¹¦¨¶s°h¥X¤Ï¦w¸Ëµ{§Ç
+</IDS_CTRL_STATICTEXT_BODY>
+<IDS_CTRL_HEADINGTEXT_BODY>¤Ï¦w¸Ë¦¨¥\</IDS_CTRL_HEADINGTEXT_BODY>
+</Messages>
+</SUF70Messages>
+<SUF70Messages>
+<Language>
+<Name>Chinese (Simplified)</Name>
+<Default>1</Default>
+<Primary>4</Primary>
+<Secondary>
+<ID>2</ID>
+<ID>3</ID>
+<ID>4</ID>
+<ID>5</ID>
+</Secondary>
+</Language>
+<Messages>
+<IDS_WINDOW_TITLE> ³ÆÖØ¹ÜÀíÏµÍ³ Ð¶ÔØ³ÌÐò</IDS_WINDOW_TITLE>
+<IDS_HEADER_TEXT>Ð¶ÔØÒÑÍê³É</IDS_HEADER_TEXT>
+<IDS_SUBHEADER_TEXT>Ð¶ÔØÒÑ³É¹¦Íê³É¡£</IDS_SUBHEADER_TEXT>
+<IDS_CTRL_BUTTON_NEXT>Íê³É(&amp;F)</IDS_CTRL_BUTTON_NEXT>
+<IDS_CTRL_BUTTON_BACK>&lt; ·µ»Ø(&amp;B)</IDS_CTRL_BUTTON_BACK>
+<IDS_CTRL_BUTTON_CANCEL>È¡Ïû(&amp;C)</IDS_CTRL_BUTTON_CANCEL>
+<IDS_CTRL_BUTTON_HELP>°ïÖú(&amp;H)</IDS_CTRL_BUTTON_HELP>
+<IDS_CTRL_STATICTEXT_BODY>
+
+³ÆÖØ¹ÜÀíÏµÍ³ ÒÑ±»Ð¶ÔØ¡£
+
+
+Çëµ¥»÷¡°Íê³É¡±ÍË³ö¡£
+</IDS_CTRL_STATICTEXT_BODY>
+<IDS_CTRL_HEADINGTEXT_BODY>Ð¶ÔØ³É¹¦</IDS_CTRL_HEADINGTEXT_BODY>
+</Messages>
+</SUF70Messages>
+<SUF70Messages>
+<Language>
+<Name>English</Name>
+<Default>0</Default>
+<Primary>9</Primary>
+<Secondary>
+<ID>1</ID>
+<ID>2</ID>
+<ID>3</ID>
+<ID>4</ID>
+<ID>5</ID>
+<ID>6</ID>
+<ID>7</ID>
+<ID>8</ID>
+<ID>9</ID>
+<ID>10</ID>
+<ID>11</ID>
+<ID>12</ID>
+<ID>13</ID>
+</Secondary>
+</Language>
+<Messages>
+<IDS_WINDOW_TITLE>%ProductName% Uninstaller</IDS_WINDOW_TITLE>
+<IDS_HEADER_TEXT>Uninstallation Finished</IDS_HEADER_TEXT>
+<IDS_SUBHEADER_TEXT>The uninstallation has completed successfully.</IDS_SUBHEADER_TEXT>
+<IDS_CTRL_BUTTON_NEXT>&amp;Finish</IDS_CTRL_BUTTON_NEXT>
+<IDS_CTRL_BUTTON_BACK>&lt; &amp;Back</IDS_CTRL_BUTTON_BACK>
+<IDS_CTRL_BUTTON_CANCEL>&amp;Cancel</IDS_CTRL_BUTTON_CANCEL>
+<IDS_CTRL_BUTTON_HELP>&amp;Help</IDS_CTRL_BUTTON_HELP>
+<IDS_CTRL_STATICTEXT_BODY>%ProductName% %ProductVer% has been uninstalled.
+
+Please click Finish to exit.
+</IDS_CTRL_STATICTEXT_BODY>
+<IDS_CTRL_HEADINGTEXT_BODY>Uninstallation Successful</IDS_CTRL_HEADINGTEXT_BODY>
+</Messages>
+</SUF70Messages>
+</Languages>
+</Screen>
+</AfterScreens>
+<Events>
+<Event>
+<Name>On Startup</Name>
+<Args/>
+<Script/>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Pre Uninstall</Name>
+<Args/>
+<Script/>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Post Uninstall</Name>
+<Args/>
+<Script/>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Shutdown</Name>
+<Args/>
+<Script>
+-- ÔÚËùÓÐÆäËû¡°¹Ø»úÊ±¡±²Ù×÷Ö®ºóÔÚ½áÊøÊ±µ÷ÓÃ¸Ãº¯Êý¡£
+-- Èç¹ûÐèÒªµÄ»°£¬Õâ½«µ¼ÖÂÏµÍ³ÖØÐÂÆô¶¯¡£
+-- ¶¨Òå _SUF70_Global_Functions.lua
+-- ²»Òª±à¼­¸Ã½Å±¾£¬³ý·ÇÄúÖªµÀÄúËù×öµÄ
+g_HandleSystemReboot();
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Uninstall Error</Name>
+<Args>number e_ErrorCode, string e_ErrorMsgID</Args>
+<Script>-- These actions are performed is an error occurs while the setup is uninstalling files.
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+</Events>
+</UninstallData>
+<ProjectData>
+<LogFile>
+<Create>1</Create>
+<Filename>%WindowsFolder%\%ProductName% Setup Log.txt</Filename>
+<WriteMode>0</WriteMode>
+<ActionDetailLevel>1</ActionDetailLevel>
+</LogFile>
+<EnableSilentMode>0</EnableSilentMode>
+<StartInSilentMode>0</StartInSilentMode>
+<VerifyArchive>0</VerifyArchive>
+<UserProfile>0</UserProfile>
+<UserPrivilegeLevel>2</UserPrivilegeLevel>
+<MainWindowSettings>
+<ShowBackGroundWindow>0</ShowBackGroundWindow>
+<WindowStyle>0</WindowStyle>
+<WindowAppearance>1</WindowAppearance>
+<SolidBackColor format="hex">008080</SolidBackColor>
+<GradientBackColor format="hex">b4c2e3</GradientBackColor>
+<GradientForeColor format="hex">5971b6</GradientForeColor>
+<ImageFile/>
+<UseCustomIcon>0</UseCustomIcon>
+<CustomIcon/>
+<HideTaskbarIcon>0</HideTaskbarIcon>
+<AlwaysOnTop>0</AlwaysOnTop>
+<Headline>%ProductName%</Headline>
+<HeadingFont>
+<FontData>
+<FontName>ËÎÌå</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-37</Height>
+<Weight>700</Weight>
+<Italic>1</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+</HeadingFont>
+<HeadlineTextColor format="hex">ffffff</HeadlineTextColor>
+<Headline3DColor format="hex">000000</Headline3DColor>
+<HeadlineAlign>0</HeadlineAlign>
+<Headline3d>1</Headline3d>
+<SubHeading>v%ProductVer%</SubHeading>
+<SubHeadingFont>
+<FontData>
+<FontName>ËÎÌå</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-18</Height>
+<Weight>700</Weight>
+<Italic>1</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+</SubHeadingFont>
+<SubHeadingTextColor format="hex">ffffff</SubHeadingTextColor>
+<SubHeading3DColor format="hex">000000</SubHeading3DColor>
+<SubHeadingAlign>0</SubHeadingAlign>
+<SubHeading3d>1</SubHeading3d>
+<Footer>%Copyright% ±£ÁôËùÓÐÈ¨Àû¡£%CompanyURL%</Footer>
+<FooterFont>
+<FontData>
+<FontName>ËÎÌå</FontName>
+<CharacterSet>0</CharacterSet>
+<Height>-16</Height>
+<Weight>400</Weight>
+<Italic>0</Italic>
+<Underline>0</Underline>
+<StrikeOut>0</StrikeOut>
+<AntiAlias>1</AntiAlias>
+</FontData>
+</FooterFont>
+<FooterTextColor format="hex">ffffff</FooterTextColor>
+<Footer3DColor format="hex">000000</Footer3DColor>
+<FooterAlign>0</FooterAlign>
+<Footer3d>1</Footer3d>
+</MainWindowSettings>
+<SetupExpiration>
+<ExpireByDate>0</ExpireByDate>
+<DateMethod>0</DateMethod>
+<NumDaysBld>30</NumDaysBld>
+<NumDaysRun>30</NumDaysRun>
+<AbortNotWriteDFR>1</AbortNotWriteDFR>
+<ExpireDate>1152152468</ExpireDate>
+<TellUserDate>0</TellUserDate>
+<ExpireByUses>0</ExpireByUses>
+<UsesMethod>1</UsesMethod>
+<NumUsesUser>1</NumUsesUser>
+<NumUsesSystem>2</NumUsesSystem>
+<AbortNotWritable>1</AbortNotWritable>
+<TellUserUses>0</TellUserUses>
+<UniqueKey>1B4084A6-A94C-4BCA-B833-C67A4B09B171</UniqueKey>
+<ShowContactInfo>0</ShowContactInfo>
+<ContactName>%CompanyName%</ContactName>
+<ContactURL>%CompanyURL%</ContactURL>
+<ContactEmail/>
+<ContactPhone/>
+</SetupExpiration>
+<SetupRequirements>
+<OSCond>
+<OS>32768</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+<OS>65535</OS>
+</OSCond>
+<ScreenWidth>0</ScreenWidth>
+<ScreenHeight>0</ScreenHeight>
+<ColorDepth>0</ColorDepth>
+<RAM>0</RAM>
+<AdminReq>1</AdminReq>
+<Action>0</Action>
+</SetupRequirements>
+<Launcher/>
+<ProjectTheme>Computer</ProjectTheme>
+<ProjFileDesc>ÐÂ½¨¹¤³Ì</ProjFileDesc>
+<ProjFileAuthor/>
+<ProjFileCompany/>
+<ProjFileNotes/>
+<ProjFileCopyright>°æÈ¨ 2006 </ProjFileCopyright>
+<ProjFileURL/>
+<ProjFileEmail/>
+<ProjFileCreatedVer>7.0.1.0</ProjFileCreatedVer>
+<ProjFileSavedVer>9.0.3.0</ProjFileSavedVer>
+<BaseFolderArchive>E:\°²×°\°²×°±ê×¼°æ</BaseFolderArchive>
+<BaseFolderExternal/>
+<UseSkinFile>0</UseSkinFile>
+<SkinFilename/>
+<SkinSubStyle/>
+<ActionPlugins/>
+<DependencyModules/>
+<PrimerFiles/>
+<Events>
+<Event>
+<Name>È«¾Öº¯Êý</Name>
+<Args/>
+<Script/>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Startup</Name>
+<Args/>
+<Script/>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Pre Install</Name>
+<Args/>
+<Script/>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Post Install</Name>
+<Args/>
+<Script/>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Shutdown</Name>
+<Args/>
+<Script>
+-- ÔÚËùÓÐÆäËû¡°¹Ø»úÊ±¡±²Ù×÷Ö®ºóÔÚ½áÊøÊ±µ÷ÓÃ¸Ãº¯Êý¡£
+-- Èç¹ûÐèÒªµÄ»°£¬Õâ½«µ¼ÖÂÏµÍ³ÖØÐÂÆô¶¯¡£
+-- ¶¨Òå _SUF70_Global_Functions.lua
+-- ²»Òª±à¼­¸Ã½Å±¾£¬³ý·ÇÄúÖªµÀÄúËù×öµÄ
+g_HandleSystemReboot();
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>Global Functions</Name>
+<Args/>
+<Script/>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+<Event>
+<Name>On Install Error</Name>
+<Args>number e_ErrorCode, string e_ErrorMsgID</Args>
+<Script>-- These actions are performed is an error occurs while the setup is installing files.
+</Script>
+<BookMarks count="0">
+</BookMarks>
+</Event>
+</Events>
+</ProjectData>
+<LangSettings>
+<Language>
+<Name>Chinese (Traditional)</Name>
+<Default>0</Default>
+<Primary>4</Primary>
+<Secondary>
+<ID>1</ID>
+</Secondary>
+</Language>
+<Language>
+<Name>Chinese (Simplified)</Name>
+<Default>1</Default>
+<Primary>4</Primary>
+<Secondary>
+<ID>2</ID>
+<ID>3</ID>
+<ID>4</ID>
+<ID>5</ID>
+</Secondary>
+</Language>
+<Language>
+<Name>English</Name>
+<Default>0</Default>
+<Primary>9</Primary>
+<Secondary>
+<ID>1</ID>
+<ID>2</ID>
+<ID>3</ID>
+<ID>4</ID>
+<ID>5</ID>
+<ID>6</ID>
+<ID>7</ID>
+<ID>8</ID>
+<ID>9</ID>
+<ID>10</ID>
+<ID>11</ID>
+<ID>12</ID>
+<ID>13</ID>
+</Secondary>
+</Language>
+</LangSettings>
+<SUF7SessionVars>
+<SessionVar>
+<Name>%ProductName%</Name>
+<Value>³ÆÖØÈí¼þµ¥»ú°æ</Value>
+<Type>1</Type>
+</SessionVar>
+<SessionVar>
+<Name>%CompanyName%</Name>
+<Value/>
+<Type>1</Type>
+</SessionVar>
+<SessionVar>
+<Name>%ProductVer%</Name>
+<Value/>
+<Type>1</Type>
+</SessionVar>
+<SessionVar>
+<Name>%Copyright%</Name>
+<Value>°æÈ¨ (C)2005 %CompanyName%</Value>
+<Type>1</Type>
+</SessionVar>
+<SessionVar>
+<Name>%CompanyURL%</Name>
+<Value/>
+<Type>1</Type>
+</SessionVar>
+<SessionVar>
+<Name>%WindowTitle%</Name>
+<Value>³ÆÖØ¹ÜÀíÏµÍ³ °²×°</Value>
+<Type>1</Type>
+</SessionVar>
+<SessionVar>
+<Name>%AppFolder%</Name>
+<Value>%ProgramFilesFolder%\%ProductName%</Value>
+<Type>2</Type>
+</SessionVar>
+<SessionVar>
+<Name>%AppShortcutFolderName%</Name>
+<Value>%ProductName%</Value>
+<Type>2</Type>
+</SessionVar>
+<SessionVar>
+<Name>%WindowTitleUninstall%</Name>
+<Value>%ProductName% Uninstaller</Value>
+<Type>1</Type>
+</SessionVar>
+</SUF7SessionVars>
+<BuildConfigurations>
+<BuildConfig>
+<Name>1.3</Name>
+<PreBuildProg/>
+<PreBuildCmdLine/>
+<PreBuildWait>0</PreBuildWait>
+<PostBuildProg/>
+<PostBuildCmdLine/>
+<PostBuildWait>0</PostBuildWait>
+<Filename>³ÆÖØÈí¼þµ¥»ú°æ v1.6.exe</Filename>
+<OutputFolder>D:\¸£ÖÝ°ÂÌØÍþ\µ¥»úÆÆ½â°æ</OutputFolder>
+<SegmentSizeMode>2</SegmentSizeMode>
+<CustomSegSize>0</CustomSegSize>
+<CustomSegSizeMode>0</CustomSegSizeMode>
+<Platform>0</Platform>
+<CollectLaunchUserInfo>0</CollectLaunchUserInfo>
+<CodeSignLocation/>
+<CodeSignCertificateFile/>
+<CodeSignPVKFile/>
+<CodeSignTimeStampURL/>
+<CodeSignDescription/>
+<CodeSignDescriptionURL/>
+<CodeSignSetups>0</CodeSignSetups>
+<CodeSigningTool>0</CodeSigningTool>
+<Arguments/>
+<UseCustomIcon>0</UseCustomIcon>
+<CustomIconFile/>
+<ResourceFileVersion>9.0.3.0</ResourceFileVersion>
+<ResourceProductVersion>9.0.3.0</ResourceProductVersion>
+<ResourceCompanyName>Indigo Rose Corporation</ResourceCompanyName>
+<ResourceProductName>Setup Factory Runtime</ResourceProductName>
+<ResourceComments>Created with Setup Factory</ResourceComments>
+<ResourceInternalName>sf_rt</ResourceInternalName>
+<ResourceFileDescription>Setup Application</ResourceFileDescription>
+<ResourceCopyright>Setup Engine Copyright © 1992-2011 Indigo Rose Corporation</ResourceCopyright>
+<ResourceTrademarks>Setup Factory is a trademark of Indigo Rose Corporation</ResourceTrademarks>
+<ResourcePrivateBuild/>
+<ResourceSpecialBuild/>
+<StampResources>0</StampResources>
+<CompressionType CompressionSetting="LZMA2_HIGH" DictionarySize="24" WordSize="32" CPUThreads="2"/>
+<Vars/>
+</BuildConfig>
+</BuildConfigurations>
+<GlobalScriptIncludes>
+<GlobalIncludeScriptFile>
+<Filename>#SUFDIR#\Includes\Scripts\_SUF70_Global_Functions.lua</Filename>
+<IRReq>1</IRReq>
+<BuildConfigs>
+<Cfg>All</Cfg>
+</BuildConfigs>
+</GlobalIncludeScriptFile>
+</GlobalScriptIncludes>
+</DocumentData>
